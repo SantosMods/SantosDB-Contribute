@@ -2,8 +2,8 @@
 title: BigDaddy-AmbientAutos
 description: Creates persistent ambient vehicles at configured locations with saved colors, modifications, extras, and vehicle states.
 published: true
-date: 2026-09-13T15:51:11.389Z
-tags: script, vehicles, standalone, admin-tool
+date: 2026-09-13T18:02:43.022Z
+tags: admin-tool, script, standalone, vehicles
 editor: markdown
 dateCreated: 2026-09-13T15:51:11.389Z
 ---
