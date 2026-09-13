@@ -2,7 +2,7 @@
 title: BigDaddy-Airbags
 description: Adds collision-triggered airbags with configurable vehicle exemptions, reset controls, and an option to disable vehicles after deployment.
 published: true
-date: 2026-09-13T15:40:45.120Z
+date: 2026-09-13T18:01:49.657Z
 tags: qbcore, qbox, script, vehicle-safety
 editor: markdown
 dateCreated: 2026-09-13T15:40:45.120Z
