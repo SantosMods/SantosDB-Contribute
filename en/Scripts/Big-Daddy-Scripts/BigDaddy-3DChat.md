@@ -2,8 +2,8 @@
 title: BigDaddy-3DChat
 description: Displays local chat messages as 3D bubbles above players, with configurable distance, duration, and message length.
 published: true
-date: 2026-09-13T15:29:04.238Z
-tags: script, qbcore, qbox, proximity-chat
+date: 2026-09-13T15:30:49.088Z
+tags: proximity-chat, qbcore, qbox, script
 editor: markdown
 dateCreated: 2026-09-13T15:29:04.238Z
 ---
