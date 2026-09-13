@@ -2,8 +2,8 @@
 title: BigDaddy-ApocalypseRoulette
 description: Lets players wager configured ox_inventory items on a roulette wheel for multiplied rewards, losses, or a lethal skull result.
 published: true
-date: 2026-09-13T17:54:07.756Z
-tags: qbcore, qbox, script, inventory-game
+date: 2026-09-13T18:03:24.223Z
+tags: inventory-game, qbcore, qbox, script
 editor: markdown
 dateCreated: 2026-09-13T17:54:07.756Z
 ---
