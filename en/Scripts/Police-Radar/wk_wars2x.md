@@ -2,8 +2,8 @@
 title: wk_wars2x
 description: Standalone FiveM police radar and plate-reader system inspired by the Stalker DSR 2X.
 published: true
-date: 2026-09-14T02:18:01.015Z
-tags: police, script, standalone, radar
+date: 2026-09-14T23:59:39.442Z
+tags: police, radar, script, standalone
 editor: markdown
 dateCreated: 2026-09-14T02:18:01.015Z
 ---
