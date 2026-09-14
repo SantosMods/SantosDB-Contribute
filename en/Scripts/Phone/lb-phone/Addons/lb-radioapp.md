@@ -1,9 +1,9 @@
 ---
-title: b-radioapp
+title: lb-radioapp
 description: Paid LB Phone app for connecting to radio frequencies and viewing previously connected frequencies.
 published: true
-date: 2026-09-14T01:53:56.415Z
-tags: script, phone-app, radio, communications
+date: 2026-09-14T01:55:25.488Z
+tags: communications, phone-app, radio, script
 editor: markdown
 dateCreated: 2026-09-14T01:53:56.415Z
 ---
