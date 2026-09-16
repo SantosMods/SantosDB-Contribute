@@ -2,7 +2,7 @@
 title: vMenu
 description: Standalone FiveM server menu with permission-controlled player, vehicle, world, and administrative functionality.
 published: true
-date: 2026-09-16T00:39:48.211Z
+date: 2026-09-16T00:40:27.802Z
 tags: admin, menus, script, standalone
 editor: markdown
 dateCreated: 2026-09-14T02:12:06.962Z
