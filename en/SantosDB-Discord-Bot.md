@@ -2,7 +2,7 @@
 title: SantosDB | Discord Bot
 description: Discord bot for searching, browsing, and viewing live SantosDB resource information through the SantosDB Wiki.js API.
 published: true
-date: 2026-09-15T01:55:25.525Z
+date: 2026-09-16T00:43:55.242Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-15T01:55:25.525Z
@@ -21,54 +21,18 @@ The **SantosDB Discord Bot** lets you search, browse, and discover SantosDB page
 
 ## Commands
 
-The bot uses the prefix:
+The SantosDB Discord Bot uses Discord **Application Commands**.
+
+Run:
 
 ```text
-sdb!
+/help
 ```
 
-| Command               | Description                       |
-| --------------------- | --------------------------------- |
-| `sdb!help`            | View all commands.                |
-| `sdb!search <query>`  | Search SantosDB.                  |
-| `sdb!page <page>`     | View a SantosDB page.             |
-| `sdb!recent [amount]` | View recently updated pages.      |
-| `sdb!random`          | Find a random resource.           |
-| `sdb!tags [query]`    | View or search tags.              |
-| `sdb!tag <tag>`       | Browse resources by tag.          |
-| `sdb!categories`      | View SantosDB categories.         |
-| `sdb!stats`           | View SantosDB statistics.         |
-| `sdb!github`          | Open the contribution repository. |
-| `sdb!contribute`      | Learn how to contribute.          |
-| `sdb!about`           | View information about SantosDB.  |
-| `sdb!ping`            | Check bot and API status.         |
-| {.dense}              |                                   |
+Use `/help` in Discord to view the current commands and available options.
 
-### Examples
-
-Search for a resource:
-
-```text
-sdb!search ox_inventory
-```
-
-Browse QBCore resources:
-
-```text
-sdb!tag qbcore
-```
-
-View recent updates:
-
-```text
-sdb!recent 10
-```
-
-Find something random:
-
-```text
-sdb!random
-```
+> Using `/help` ensures you see the commands currently available through the bot.
+> {.is-info}
 
 ---
 
@@ -87,7 +51,7 @@ SantosDB plans to provide API access to eligible community members who contribut
 
 ## Links
 
-* [**Invite SantosDB Discord Bot**](https://discord.com/oauth2/authorize?client_id=1549233730927988788&permissions=137439266880&integration_type=0&scope=bot)
+* [**Invite SantosDB Discord Bot**](https://discord.com/oauth2/authorize?client_id=1549233730927988788&permissions=412317174848&integration_type=0&scope=bot+applications.commands)
 * [**SantosDB.net**](https://santosdb.net/)
 * [**SantosDB-Contribute**](https://github.com/SantosMods/SantosDB-Contribute)
 
