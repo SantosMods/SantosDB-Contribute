@@ -2,8 +2,8 @@
 title: MugShotBase64
 description: Standalone FiveM resource that converts ped mugshots to Base64 strings for storage or use by other scripts.
 published: true
-date: 2026-09-14T01:44:43.473Z
-tags: developer-tool, script, standalone, mugshot
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, developer-tool
 editor: markdown
 dateCreated: 2026-09-14T01:44:43.473Z
 ---

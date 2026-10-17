@@ -2,8 +2,8 @@
 title: ND_MDT
 description: ND_MDT is a police mobile data terminal for ND_Core.
 published: true
-date: 2026-09-08T00:21:35.143Z
-tags: nd, police, script, mdt
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, esx, free, github, police, mdt
 editor: markdown
 dateCreated: 2026-09-07T06:23:01.248Z
 ---
@@ -26,6 +26,7 @@ ND_MDT is a police mobile data terminal for ND_Core.
 | **Type**              | Script       |
 | **Category**          | Police       |
 | **Game**              | FiveM        |
+| **Price**             | Free         |
 | **Primary Framework** | ND_Core      |
 | **ESX Integration**   | Available    |
 | **License**           | GPL-3.0      |

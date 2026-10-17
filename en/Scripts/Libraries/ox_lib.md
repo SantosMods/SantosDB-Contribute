@@ -2,8 +2,8 @@
 title: ox_lib
 description: A standalone library for providing easily reusable code as importable modules and exports.
 published: true
-date: 2026-09-08T00:21:48.597Z
-tags: library, developer-tool, free, overextended
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, overextended, developer-tool
 editor: markdown
 dateCreated: 2026-09-07T04:12:41.850Z
 ---
@@ -83,7 +83,7 @@ It can be used by other FiveM resources without requiring a specific roleplay fr
 To build the resource from source:
 
 ```bash
-git clone https://github.com/overextended/ox_lib.git
+git clone https://github.com/overextended/ox_lib
 cd ox_lib/web
 bun i
 bun run build

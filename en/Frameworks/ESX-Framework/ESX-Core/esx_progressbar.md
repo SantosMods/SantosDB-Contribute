@@ -2,8 +2,8 @@
 title: esx_progressbar
 description: esx_progressbar provides an NUI progress bar for ESX resources.
 published: true
-date: 2026-09-08T00:25:46.210Z
-tags: esx, script, ui, progressbar
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ui
 editor: markdown
 dateCreated: 2026-09-07T23:42:24.824Z
 ---
@@ -22,13 +22,14 @@ dateCreated: 2026-09-07T23:42:24.824Z
 | Field         | Information       |
 | ------------- | ----------------- |
 | **Name**      | `esx_progressbar` |
-| **Creator**   | ESX-Framework     |
+| **Creator**   | ESX Framework     |
 | **Type**      | Script            |
 | **Category**  | UI                |
 | **Game**      | FiveM             |
 | **Framework** | ESX Legacy        |
-| **Version**   | `1.14.0`          |
-| **License**   | GPL-3.0-or-later  |
+| **Price**     | Free              |
+| **Version**   | `1.16.0`          |
+| **License**   | GPL-3.0-only      |
 | {.dense}      |                   |
 
 ---

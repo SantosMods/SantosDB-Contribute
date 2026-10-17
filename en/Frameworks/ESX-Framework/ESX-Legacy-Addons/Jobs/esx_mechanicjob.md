@@ -2,8 +2,8 @@
 title: esx_mechanicjob
 description: ESX mechanic job for repairing and modifying vehicles, with billing, boss actions, and mechanic job interactions.
 published: true
-date: 2026-09-11T20:35:00.672Z
-tags: esx, mechanic, script, vehicle-repair
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, mechanic
 editor: markdown
 dateCreated: 2026-09-10T03:30:38.334Z
 ---
@@ -22,19 +22,19 @@ dateCreated: 2026-09-10T03:30:38.334Z
 
 ## Resource Information
 
-| Field              | Information         |
-| ------------------ | ------------------- |
-| **Name**           | `esx_mechanicjob`   |
-| **Creator**        | ESX Framework       |
-| **Type**           | Script              |
-| **Category**       | Mechanic Job        |
-| **Game**           | FiveM               |
-| **Framework**      | ESX                 |
-| **Price**          | Free                |
-| **License**        | GNU GPL v3 or later |
-| **Version**        | `1.0`               |
-| **Legacy Version** | `1.13.4`            |
-| {.dense}           |                     |
+| Field              | Information       |
+| ------------------ | ----------------- |
+| **Name**           | `esx_mechanicjob` |
+| **Creator**        | ESX Framework     |
+| **Type**           | Script            |
+| **Category**       | Mechanic Job      |
+| **Game**           | FiveM             |
+| **Framework**      | ESX Legacy        |
+| **Price**          | Free              |
+| **License**        | GPL-3.0-only      |
+| **Version**        | `1.0`             |
+| **Legacy Version** | `1.16.0`          |
+| {.dense}           |                   |
 
 ---
 

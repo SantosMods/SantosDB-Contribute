@@ -2,8 +2,8 @@
 title: screenshot-basic
 description: CitizenFX FiveM resource for capturing client game render targets as screenshots through exports.
 published: true
-date: 2026-09-14T01:42:13.699Z
-tags: developer-tool, script, standalone, screenshots
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, developer-tool
 editor: markdown
 dateCreated: 2026-09-14T01:42:13.699Z
 ---

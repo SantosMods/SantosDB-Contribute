@@ -2,8 +2,8 @@
 title: luxart-vehicle-control
 description: FiveM non-ELS emergency vehicle controller for managing vehicle sirens and emergency lighting.
 published: true
-date: 2026-09-14T23:54:08.795Z
-tags: emergency-services, script, standalone, sirens
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, emergency-services
 editor: markdown
 dateCreated: 2026-09-14T23:54:08.795Z
 ---
@@ -26,6 +26,7 @@ FiveM non-ELS emergency vehicle controller for managing vehicle sirens and emerg
 | **Type**             | Script                    |
 | **Category**         | Emergency Vehicles        |
 | **Game**             | FiveM                     |
+| **Price**            | Free                      |
 | **License**          | GPL-3.0                   |
 | **Framework**        | Standalone                |
 | {.dense}             |                           |
@@ -79,7 +80,7 @@ ensure luxart-vehicle-control
 
 * [Official GitHub Repository](https://github.com/TrevorBarns/luxart-vehicle-control)
 * [Official Releases](https://github.com/TrevorBarns/luxart-vehicle-control/releases)
-* [Luxart Engineering](https://www.luxartengineering.com/)
+* [Luxart Engineering](https://docs.luxartengineering.com/)
 
 ## Credits
 

@@ -2,8 +2,8 @@
 title: esx_shops
 description: esx_shops provides configurable item shops for ESX Legacy.
 published: true
-date: 2026-09-11T20:37:54.799Z
-tags: esx, inventory, script, shops
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, shops
 editor: markdown
 dateCreated: 2026-09-08T00:51:21.685Z
 ---
@@ -27,8 +27,10 @@ dateCreated: 2026-09-08T00:51:21.685Z
 | **Category**  | Shops         |
 | **Game**      | FiveM         |
 | **Framework** | ESX Legacy    |
+| **Price**     | Free          |
+| **License**   | GPL-3.0-only  |
 | **Version**   | `2.0.0`       |
-| **Source**    | ESX Framework |
+| **Source**    | GitHub        |
 | {.dense}      |               |
 
 ---

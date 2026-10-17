@@ -2,8 +2,8 @@
 title: qb-hud
 description: QBCore player HUD displaying player, vehicle, money, voice, status, compass, and other gameplay information.
 published: true
-date: 2026-09-14T01:32:25.983Z
-tags: hud, qbcore, script, ui
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, hud, ui
 editor: markdown
 dateCreated: 2026-09-14T01:32:25.983Z
 ---

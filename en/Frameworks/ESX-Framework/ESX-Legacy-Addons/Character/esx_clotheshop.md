@@ -2,8 +2,8 @@
 title: esx_clotheshop
 description: esx_clotheshop provides clothing stores and character clothing customization for ESX Legacy.
 published: true
-date: 2026-09-11T20:37:12.150Z
-tags: appearance, clothing, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, appearance, clothing
 editor: markdown
 dateCreated: 2026-09-08T00:53:36.938Z
 ---
@@ -27,8 +27,10 @@ dateCreated: 2026-09-08T00:53:36.938Z
 | **Category**  | Clothing         |
 | **Game**      | FiveM            |
 | **Framework** | ESX Legacy       |
+| **Price**     | Free             |
+| **License**   | GPL-3.0-only     |
 | **Version**   | `1.0`            |
-| **Source**    | ESX Framework    |
+| **Source**    | GitHub           |
 | {.dense}      |                  |
 
 ---

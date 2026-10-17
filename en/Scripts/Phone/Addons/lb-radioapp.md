@@ -2,8 +2,8 @@
 title: lb-radioapp
 description: Paid LB Phone app for connecting to radio frequencies and viewing previously connected frequencies.
 published: true
-date: 2026-09-14T01:55:25.488Z
-tags: communications, phone-app, radio, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, paid, radio, phone
 editor: markdown
 dateCreated: 2026-09-14T01:53:56.415Z
 ---
@@ -56,7 +56,7 @@ lb-phone
 ### Installation Checklist
 
 * [ ] Install `lb-phone`
-* [ ] Download `lb-radioapp` from the authorized Cfx.re source
+* [ ] Download `lb-radioapp` from the authorized LB Scripts source
 * [ ] Place it in your resources folder
 * [ ] Start `lb-phone` first
 * [ ] Start `lb-radioapp`
@@ -78,7 +78,7 @@ start lb-radioapp
 
 * [Official Documentation](https://docs.lbscripts.com/radio/)
 * [Installation](https://docs.lbscripts.com/radio/installation/)
-* [Authorized Store](https://store.lbscripts.com/)
+* [Authorized Store](https://lbscripts.com/)
 
 ---
 

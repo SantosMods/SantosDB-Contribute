@@ -2,8 +2,8 @@
 title: ND_Dealership
 description: ND_Dealership provides vehicle dealerships for ND Framework.
 published: true
-date: 2026-09-08T00:21:27.798Z
-tags: nd, script, vehicles, dealership
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, free, github, vehicles, dealership
 editor: markdown
 dateCreated: 2026-09-07T18:43:02.682Z
 ---
@@ -26,6 +26,7 @@ ND_Dealership provides vehicle dealerships for ND Framework.
 | **Type**      | Script          |
 | **Category**  | Vehicles        |
 | **Game**      | FiveM           |
+| **Price**     | Free            |
 | **Framework** | ND Framework    |
 | **Version**   | `2.0.1`         |
 | **License**   | GPL-3.0         |

@@ -2,8 +2,8 @@
 title: qb-banking
 description: QBCore banking system for player, job, gang, and shared accounts with bank and ATM interactions.
 published: true
-date: 2026-09-14T01:31:42.862Z
-tags: banking, qbcore, script, shared-accounts
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, banking
 editor: markdown
 dateCreated: 2026-09-14T01:31:42.862Z
 ---
@@ -106,7 +106,7 @@ Test bank locations, ATM interactions, account access, and any integrations used
 ## Links
 
 * [Official GitHub Repository](https://github.com/qbcore-fivem/qb-banking)
-* [Official QBCore Documentation](https://docs.qbcore.org/qbcore-documentation/qbcore-resources/qb-banking)
+* [Official QBCore Documentation](https://qbcore.org/docs/qbcore-resources/qb-banking)
 
 ---
 

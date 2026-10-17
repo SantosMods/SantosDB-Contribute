@@ -2,8 +2,8 @@
 title: MenuAPI
 description: C# menu API for FiveM and RedM designed as a NativeUI replacement and used by resources such as vMenu.
 published: true
-date: 2026-09-14T02:13:59.601Z
-tags: developer-tool, library, menus, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, developer-tool, menus
 editor: markdown
 dateCreated: 2026-09-14T02:13:59.601Z
 ---
@@ -27,7 +27,7 @@ C# menu API for FiveM and RedM designed as a NativeUI replacement.
 | **Category** | Menu API       |
 | **Games**    | FiveM, RedM    |
 | **Price**    | Free           |
-| **License**  | Custom license |
+| **License**  | LGPL-3.0-or-later |
 | **Language** | C#             |
 | {.dense}     |                |
 
@@ -54,11 +54,9 @@ MenuAPI is normally included as a dependency inside the developer's resource rat
 
 ### License
 
-MenuAPI uses a custom license.
+The official repository licenses MenuAPI under LGPL-3.0-or-later.
 
-The license allows its pre-built files to be included in commercial and non-commercial projects, but imposes restrictions on selling or redistributing MenuAPI itself.
-
-Review the official license before redistributing or modifying the library.
+Review the official `LICENSE.md` before redistributing or modifying the library.
 
 ---
 

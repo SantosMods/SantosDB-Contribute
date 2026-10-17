@@ -2,8 +2,8 @@
 title: RageUI
 description: FiveM menu library designed to create interfaces similar to GTA Online menus as a replacement for NativeUILua-Reloaded.
 published: true
-date: 2026-09-14T02:17:15.075Z
-tags: library, menus, standalone, ui
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, menus, ui
 editor: markdown
 dateCreated: 2026-09-14T02:17:15.075Z
 ---
@@ -26,6 +26,7 @@ FiveM menu library designed to create interfaces similar to GTA Online menus as 
 | **Type**       | Library                     |
 | **Category**   | Menu Library                |
 | **Game**       | FiveM                       |
+| **Price**      | Free                        |
 | **Framework**  | Standalone                  |
 | **License**    | Custom / repository license |
 | {.dense}       |                             |

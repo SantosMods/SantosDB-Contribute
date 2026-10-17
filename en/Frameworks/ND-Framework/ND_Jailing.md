@@ -2,8 +2,8 @@
 title: ND_Jailing
 description: ND_Jailing provides player jailing functionality for ND Framework.
 published: true
-date: 2026-09-08T00:21:33.380Z
-tags: nd, police, script, jailing
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, github, police
 editor: markdown
 dateCreated: 2026-09-07T18:42:07.072Z
 ---

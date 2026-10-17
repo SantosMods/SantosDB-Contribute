@@ -2,8 +2,8 @@
 title: Badger_Discord_API
 description: Badger_Discord_API provides Discord API functionality for FiveM resources.
 published: true
-date: 2026-09-09T00:14:36.599Z
-tags: developer-tool, discord, script, api
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, developer-tool, discord
 editor: markdown
 dateCreated: 2026-09-09T00:14:34.720Z
 ---
@@ -30,7 +30,8 @@ Badger_Discord_API provides reusable Discord REST API access for FiveM resources
 | **Type**                  | Script               |
 | **Category**              | Developer Tool       |
 | **Game**                  | FiveM                |
-| **Framework Requirement** | None specified       |
+| **Price**                 | Free                 |
+| **Framework Requirement** | Not specified        |
 | **Discord Bot**           | Required             |
 | **Discord Guild**         | Required             |
 | **License**               | MIT                  |

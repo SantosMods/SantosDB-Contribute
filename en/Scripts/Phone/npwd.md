@@ -2,8 +2,8 @@
 title: npwd
 description: Framework-agnostic FiveM phone resource built with React and TypeScript, with documented QBCore and ESX integrations.
 published: true
-date: 2026-09-14T02:11:05.715Z
-tags: esx, phone, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, free, github, phone
 editor: markdown
 dateCreated: 2026-09-14T02:11:05.715Z
 ---
@@ -27,6 +27,7 @@ Framework-agnostic FiveM phone resource built with React and TypeScript.
 | **Type**              | Script                           |
 | **Category**          | Phone                            |
 | **Game**              | FiveM                            |
+| **Price**             | Free                             |
 | **License**           | CC BY-NC-SA 4.0                  |
 | **Framework Support** | QBCore, ESX, custom integrations |
 | {.dense}              |                                  |
@@ -100,7 +101,7 @@ ensure npwd
 ## Links
 
 * [Official GitHub Repository](https://github.com/project-error/npwd)
-* [Official Project Error Documentation](https://projecterror.dev/docs/npwd/)
+* [Official Project Error Documentation](https://projecterror.dev/docs/)
 
 ---
 

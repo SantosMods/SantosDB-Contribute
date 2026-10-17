@@ -2,8 +2,8 @@
 title: esx_addoninventory
 description: ESX addon that provides shared and player-specific item inventories for other resources.
 published: true
-date: 2026-09-10T03:28:25.715Z
-tags: esx, inventory, script, shared-inventory
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, inventory
 editor: markdown
 dateCreated: 2026-09-10T03:28:25.715Z
 ---
@@ -19,19 +19,19 @@ dateCreated: 2026-09-10T03:28:25.715Z
 
 ## Resource Information
 
-| Field                           | Information          |
-| ------------------------------- | -------------------- |
-| **Name**                        | `esx_addoninventory` |
-| **Creator**                     | ESX Framework        |
-| **Type**                        | Script               |
-| **Category**                    | Inventory            |
-| **Game**                        | FiveM                |
-| **Framework**                   | ESX                  |
-| **Price**                       | Free                 |
-| **License**                     | GNU GPL v3 or later  |
-| **Version in current manifest** | `1.0`                |
-| **Legacy version**              | `1.15.0`             |
-| {.dense}                        |                      |
+| Field              | Information          |
+| ------------------ | -------------------- |
+| **Name**           | `esx_addoninventory` |
+| **Creator**        | ESX Framework        |
+| **Type**           | Script               |
+| **Category**       | Inventory            |
+| **Game**           | FiveM                |
+| **Framework**      | ESX Legacy           |
+| **Price**          | Free                 |
+| **License**        | GPL-3.0-only         |
+| **Version**        | `1.0`                |
+| **Legacy Version** | `1.16.0`             |
+| {.dense}           |                      |
 
 ---
 

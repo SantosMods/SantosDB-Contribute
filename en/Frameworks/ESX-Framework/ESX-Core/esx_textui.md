@@ -2,8 +2,8 @@
 title: esx_textui
 description: esx_textui provides the persistent text UI used by ESX Legacy resources.
 published: true
-date: 2026-09-08T00:30:56.406Z
-tags: esx, script, ui, text-ui
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ui
 editor: markdown
 dateCreated: 2026-09-08T00:29:43.731Z
 ---
@@ -22,13 +22,15 @@ dateCreated: 2026-09-08T00:29:43.731Z
 | Field         | Information   |
 | ------------- | ------------- |
 | **Name**      | `esx_textui`  |
-| **Creator**   | ESX-Framework |
+| **Creator**   | ESX Framework |
 | **Type**      | Script        |
 | **Category**  | UI            |
 | **Game**      | FiveM         |
 | **Framework** | ESX Legacy    |
-| **Version**   | `1.14.1`      |
-| **Source**    | ESX Framework |
+| **Price**     | Free          |
+| **License**   | GPL-3.0-only  |
+| **Version**   | `1.16.0`      |
+| **Source**    | GitHub        |
 | {.dense}      |               |
 
 ---

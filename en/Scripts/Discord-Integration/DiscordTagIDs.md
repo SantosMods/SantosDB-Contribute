@@ -2,8 +2,8 @@
 title: DiscordTagIDs
 description: DiscordTagIDs displays Discord role-based prefixes and IDs above FiveM players.
 published: true
-date: 2026-09-09T00:18:32.701Z
-tags: discord, roles, script, nametags
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, discord
 editor: markdown
 dateCreated: 2026-09-09T00:18:31.121Z
 ---
@@ -26,8 +26,9 @@ DiscordTagIDs displays Discord role-based prefixes and IDs above FiveM players.
 | **Type**                  | Script          |
 | **Category**              | Player Tags     |
 | **Game**                  | FiveM           |
+| **Price**                 | Free            |
 | **Version**               | `1.0`           |
-| **Framework Requirement** | None specified  |
+| **Framework Requirement** | Not specified   |
 | **License**               | MIT             |
 | **Source**                | GitHub          |
 | {.dense}                  |                 |

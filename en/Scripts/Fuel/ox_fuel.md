@@ -2,8 +2,8 @@
 title: ox_fuel
 description: A FiveM fuel resource designed as an alternative to LegacyFuel and as an example of using petrol cans as inventory items.
 published: true
-date: 2026-09-08T00:21:44.941Z
-tags: free, overextended, script, fuel
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, overextended, fuel
 editor: markdown
 dateCreated: 2026-09-07T05:02:32.445Z
 ---
@@ -73,7 +73,7 @@ Optional dependency:
 ### Clone From Source
 
 ```bash
-git clone https://github.com/overextended/ox_fuel.git
+git clone https://github.com/overextended/ox_fuel
 ```
 
 Use the latest release when you do not need the repository source.

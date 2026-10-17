@@ -2,8 +2,8 @@
 title: illenium-appearance
 description: Character appearance and clothing resource supporting qb-core, ESX, and ox_core.
 published: true
-date: 2026-09-14T01:43:22.125Z
-tags: appearance, esx, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, esx, ox-core, free, github, appearance
 editor: markdown
 dateCreated: 2026-09-14T01:43:22.125Z
 ---

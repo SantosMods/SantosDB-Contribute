@@ -2,8 +2,8 @@
 title: ox_target
 description: A standalone FiveM targeting resource for interacting with entities, zones, vehicles, players, and the game world.
 published: true
-date: 2026-09-08T00:21:52.488Z
-tags: free, overextended, script, target
+date: 2026-10-16T12:00:00.000Z
+tags: script, ox-core, esx, qbox, standalone, free, github, overextended, target
 editor: markdown
 dateCreated: 2026-09-07T05:03:23.005Z
 ---
@@ -95,7 +95,7 @@ The official documentation also identifies additional functionality for `ox_inve
 ### Clone From Source
 
 ```bash
-git clone https://github.com/overextended/ox_target.git
+git clone https://github.com/overextended/ox_target
 ```
 
 ---

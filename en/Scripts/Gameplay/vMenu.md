@@ -2,8 +2,8 @@
 title: vMenu
 description: Standalone FiveM server menu with permission-controlled player, vehicle, world, and administrative functionality.
 published: true
-date: 2026-09-16T00:40:27.802Z
-tags: admin, menus, script, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, admin, menus
 editor: markdown
 dateCreated: 2026-09-14T02:12:06.962Z
 ---
@@ -17,6 +17,9 @@ vMenu is a server-sided trainer/menu for FiveM servers. It provides configurable
 
 > **Legacy status:** The creator's documentation identifies this version of vMenu as **vMenu (Legacy)**. It is no longer actively supported. It may receive small updates from community pull requests or FiveM content updates while work continues on vMenu Enhanced.
 > {.is-warning}
+
+> The `main` branch of the official repository now hosts **vMenu Enhanced**, which is GPL-3.0-or-later licensed. This page documents the original vMenu on the `legacy` branch (v3.9.2 and below). Enhanced documentation is at [docs.vespura.com/vmenu/enhanced](https://docs.vespura.com/vmenu/enhanced/).
+> {.is-info}
 
 ---
 
@@ -33,9 +36,9 @@ vMenu is a server-sided trainer/menu for FiveM servers. It provides configurable
 | **Permissions**     | FiveM ACE / Principal permissions               |
 | **Menu API**        | MenuAPI                                         |
 | **Configuration**   | ConVars, ACE permissions, JSON configuration    |
-| **Price**           | Free download from the official GitHub releases |
+| **Price**           | Free |
 | **Source**          | Official GitHub repository                      |
-| **License**         | Custom project license                          |
+| **License**         | Custom project license (legacy branch)          |
 | **Support Status**  | Legacy / limited maintenance                    |
 | **Resource Folder** | `vMenu`                                         |
 | **Manifest**        | `fxmanifest.lua`                                |
@@ -907,7 +910,7 @@ Confirm that the spawn/model/component name exactly matches the content installe
 
 ## License
 
-vMenu uses a custom license supplied in the official repository.
+The legacy vMenu branch uses a custom license supplied in the official repository.
 
 The license credits **Tom Grobbe** and permits use and modification with conditions.
 
@@ -961,7 +964,7 @@ Support questions may still be discussed through the creator's community channel
 * [tattoos.json](https://docs.vespura.com/vmenu/legacy/configuration/tattoos-json/)
 * [Troubleshooting & Support](https://docs.vespura.com/vmenu/legacy/support/)
 * [F.A.Q.](https://docs.vespura.com/vmenu/legacy/faq/)
-* [License](https://github.com/TomGrobbe/vMenu/blob/master/LICENSE.md)
+* [License](https://github.com/TomGrobbe/vMenu/blob/legacy/LICENSE.md)
 
 ---
 

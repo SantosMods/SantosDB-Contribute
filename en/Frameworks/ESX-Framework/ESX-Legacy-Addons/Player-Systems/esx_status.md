@@ -2,8 +2,8 @@
 title: esx_status
 description: ESX status system for registering and managing player statuses such as the hunger and thirst values used by esx_basicneeds.
 published: true
-date: 2026-09-11T20:47:30.207Z
-tags: esx, script, status, player-needs
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, status
 editor: markdown
 dateCreated: 2026-09-11T20:47:30.207Z
 ---
@@ -19,19 +19,20 @@ ESX system for registering and managing player statuses such as hunger and thirs
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_status`        |
-| **Creator / Maintainer** | ESX Framework       |
-| **Type**                 | Script              |
-| **Category**             | Player Status       |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_status.sql`    |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information      |
+| ------------------------ | ---------------- |
+| **Name**                 | `esx_status`     |
+| **Creator / Maintainer** | ESX Framework    |
+| **Type**                 | Script           |
+| **Category**             | Player Status    |
+| **Game**                 | FiveM            |
+| **Framework**            | ESX Legacy       |
+| **License**              | GPL-3.0-only     |
+| **Version**              | `1.1`            |
+| **Price**                | Free             |
+| **Database File**        | `esx_status.sql` |
+| **Configuration File**   | `config.lua`     |
+| {.dense}                 |                  |
 
 ---
 

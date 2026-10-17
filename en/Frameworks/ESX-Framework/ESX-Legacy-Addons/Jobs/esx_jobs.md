@@ -2,8 +2,8 @@
 title: esx_jobs
 description: ESX job system with configurable farming jobs, job vehicles, and included slaughterer, miner, fisherman, journalist, fueler, and tailor jobs.
 published: true
-date: 2026-09-11T20:45:48.329Z
-tags: esx, item-farming, jobs, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, jobs
 editor: markdown
 dateCreated: 2026-09-11T20:45:48.328Z
 ---
@@ -22,20 +22,21 @@ ESX job system with configurable farming jobs and job vehicles.
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_jobs`          |
-| **Creator / Maintainer** | ESX Framework       |
-| **Original Copyright**   | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Jobs                |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_jobs.sql`      |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information    |
+| ------------------------ | -------------- |
+| **Name**                 | `esx_jobs`     |
+| **Creator / Maintainer** | ESX Framework  |
+| **Original Copyright**   | Jérémie N'gadi |
+| **Type**                 | Script         |
+| **Category**             | Jobs           |
+| **Game**                 | FiveM          |
+| **Framework**            | ESX Legacy     |
+| **License**              | GPL-3.0-only   |
+| **Version**              | `1.0`          |
+| **Price**                | Free           |
+| **Database File**        | `esx_jobs.sql` |
+| **Configuration File**   | `config.lua`   |
+| {.dense}                 |                |
 
 ---
 

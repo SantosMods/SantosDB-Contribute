@@ -2,8 +2,8 @@
 title: qb-phone
 description: QBCore phone resource with garage, mail, banking, racing, MEOS, housing, and downloadable app features.
 published: true
-date: 2026-09-14T01:29:04.763Z
-tags: qbcore, script, ui, phone
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, ui, phone
 editor: markdown
 dateCreated: 2026-09-14T01:29:04.763Z
 ---

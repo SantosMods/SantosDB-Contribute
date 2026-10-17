@@ -2,8 +2,8 @@
 title: esx_context
 description: esx_context provides the context menu system used by es_extended.
 published: true
-date: 2026-09-08T00:24:01.801Z
-tags: esx, script, ui, menus
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ui, menus
 editor: markdown
 dateCreated: 2026-09-07T23:31:34.639Z
 ---
@@ -22,13 +22,14 @@ dateCreated: 2026-09-07T23:31:34.639Z
 | Field         | Information             |
 | ------------- | ----------------------- |
 | **Name**      | `esx_context`           |
-| **Creator**   | ESX-Framework & Brayden |
+| **Creator**   | ESX Framework & Brayden |
 | **Type**      | Script                  |
 | **Category**  | UI                      |
 | **Game**      | FiveM                   |
 | **Framework** | ESX Legacy              |
-| **Version**   | `1.14.1`                |
-| **License**   | GPL-3.0-or-later        |
+| **Price**     | Free                    |
+| **Version**   | `1.16.0`                |
+| **License**   | GPL-3.0-only            |
 | {.dense}      |                         |
 
 ---

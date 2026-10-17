@@ -2,8 +2,8 @@
 title: lb-tablet
 description: Paid FiveM tablet system with configurable MDT functionality, custom apps, and script integration exports.
 published: true
-date: 2026-09-14T01:52:22.924Z
-tags: mdt, script, ui, tablet
+date: 2026-10-16T12:00:00.000Z
+tags: script, paid, mdt, ui
 editor: markdown
 dateCreated: 2026-09-14T01:52:22.924Z
 ---
@@ -123,7 +123,7 @@ Custom framework and inventory integrations can use the supplied standalone file
 * [Official Documentation](https://docs.lbscripts.com/tablet/)
 * [Installation](https://docs.lbscripts.com/tablet/installation/)
 * [Configuration](https://docs.lbscripts.com/tablet/configuration/)
-* [Authorized Store](https://store.lbscripts.com/)
+* [Authorized Store](https://lbscripts.com/)
 
 ---
 

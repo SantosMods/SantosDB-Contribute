@@ -2,8 +2,8 @@
 title: esx_banking
 description: ESX banking and ATM resource with configurable banks, peds, transaction logging, and a web-based interface.
 published: true
-date: 2026-09-11T20:37:27.392Z
-tags: atm, banking, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, banking
 editor: markdown
 dateCreated: 2026-09-11T20:29:02.264Z
 ---
@@ -19,20 +19,21 @@ ESX banking and ATM resource with configurable bank locations, peds, and transac
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_banking`       |
-| **Creator / Maintainer** | ESX Framework       |
-| **Original Copyright**   | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Banking             |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `banking.sql`       |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information    |
+| ------------------------ | -------------- |
+| **Name**                 | `esx_banking`  |
+| **Creator / Maintainer** | ESX Framework  |
+| **Original Copyright**   | Jérémie N'gadi |
+| **Type**                 | Script         |
+| **Category**             | Banking        |
+| **Game**                 | FiveM          |
+| **Framework**            | ESX Legacy     |
+| **License**              | GPL-3.0-only   |
+| **Version**              | `1.0.1`        |
+| **Price**                | Free           |
+| **Database File**        | `banking.sql`  |
+| **Configuration File**   | `config.lua`   |
+| {.dense}                 |                |
 
 ---
 
@@ -188,7 +189,7 @@ TriggerServerEvent("esx_banking:logTransaction", label, logType, amount)
 ## Links
 
 * [Official ESX Documentation](https://docs.esx-framework.org/en/esx_addons/esx_banking)
-* Official source repository: ESX Framework `ESX-Legacy-Addons`
+* [Official ESX-Legacy-Addons Repository](https://github.com/esx-framework/ESX-Legacy-Addons)
 
 ---
 

@@ -2,8 +2,8 @@
 title: ND_Players
 description: ND_Players provides multi-character selection for ND Core.
 published: true
-date: 2026-09-08T00:21:36.794Z
-tags: nd, script, multicharacter, characters
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, free, github, characters
 editor: markdown
 dateCreated: 2026-09-07T18:41:21.997Z
 ---
@@ -26,6 +26,7 @@ ND_Players provides multi-character selection for ND Core.
 | **Type**      | Script             |
 | **Category**  | Characters         |
 | **Game**      | FiveM              |
+| **Price**     | Free               |
 | **Framework** | ND Core            |
 | **Version**   | `1.0.0`            |
 | **License**   | GPL-3.0            |

@@ -2,8 +2,8 @@
 title: esx_garage
 description: esx_garage provides vehicle garages and impounds for ESX Legacy.
 published: true
-date: 2026-09-11T20:38:19.061Z
-tags: esx, garage, script, vehicles
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, garage, vehicles
 editor: markdown
 dateCreated: 2026-09-09T20:21:57.343Z
 ---
@@ -27,7 +27,9 @@ esx_garage provides vehicle garages and impounds for ESX Legacy.
 | **Category**  | Vehicles      |
 | **Game**      | FiveM         |
 | **Framework** | ESX Legacy    |
-| **License**   | GPL-3.0       |
+| **Price**     | Free          |
+| **License**   | GPL-3.0-only  |
+| **Version**   | `2.0.0`       |
 | **Source**    | GitHub        |
 | {.dense}      |               |
 

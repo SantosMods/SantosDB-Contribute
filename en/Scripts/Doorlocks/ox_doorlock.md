@@ -2,8 +2,8 @@
 title: ox_doorlock
 description: A door management resource that can be used standalone or alongside ox_core, qbx_core, and es_extended.
 published: true
-date: 2026-09-08T00:21:43.267Z
-tags: free, overextended, script, doorlock
+date: 2026-10-16T12:00:00.000Z
+tags: script, ox-core, esx, qbox, standalone, free, github, overextended, doorlocks
 editor: markdown
 dateCreated: 2026-09-07T05:01:07.714Z
 ---
@@ -27,7 +27,7 @@ A FiveM door management resource that can run standalone or alongside supported 
 | **Category** | Door Management  |
 | **Game**     | FiveM            |
 | **Price**    | Free             |
-| **License**  | GPL-3.0 or later |
+| **License**  | GPL-3.0-or-later |
 | **Source**   | GitHub           |
 | {.dense}     |                  |
 
@@ -101,7 +101,7 @@ The official documentation states that `ox_doorlock` can run standalone or along
 If you clone the source instead of using a release, build the UI.
 
 ```bash
-git clone https://github.com/overextended/ox_doorlock.git
+git clone https://github.com/overextended/ox_doorlock
 cd ox_doorlock/web
 bun i
 bun run build

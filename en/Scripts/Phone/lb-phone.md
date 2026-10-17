@@ -2,8 +2,8 @@
 title: lb-phone
 description: Paid FiveM phone system with configurable apps, framework integrations, media uploading, and phone functionality.
 published: true
-date: 2026-09-14T01:51:02.078Z
-tags: esx, phone, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, paid, phone
 editor: markdown
 dateCreated: 2026-09-14T01:51:02.078Z
 ---
@@ -135,7 +135,7 @@ OneSync Infinity is required for AirShare functionality.
 * [Official Documentation](https://docs.lbscripts.com/phone/)
 * [Installation](https://docs.lbscripts.com/phone/installation/)
 * [Configuration](https://docs.lbscripts.com/phone/configuration/)
-* [Authorized Store](https://store.lbscripts.com/)
+* [Authorized Store](https://lbscripts.com/)
 
 ---
 

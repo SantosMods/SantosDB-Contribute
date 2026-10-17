@@ -2,8 +2,8 @@
 title: xsound
 description: FiveM audio library for playing and controlling URL-based and positional sounds.
 published: true
-date: 2026-09-14T01:41:34.397Z
-tags: script, standalone, audio, sound
+date: 2026-10-16T12:00:00.000Z
+tags: script, library, standalone, free, github, audio
 editor: markdown
 dateCreated: 2026-09-14T01:41:34.397Z
 ---

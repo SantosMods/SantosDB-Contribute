@@ -2,8 +2,8 @@
 title: esx_ambulancejob
 description: ESX EMS job resource with death handling, reviving, vehicle garages, and on-duty ambulance features.
 published: true
-date: 2026-09-11T20:35:17.354Z
-tags: ems, esx, revive, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ems
 editor: markdown
 dateCreated: 2026-09-10T03:29:14.811Z
 ---
@@ -19,19 +19,19 @@ dateCreated: 2026-09-10T03:29:14.811Z
 
 ## Resource Information
 
-| Field                           | Information         |
-| ------------------------------- | ------------------- |
-| **Name**                        | `esx_ambulancejob`  |
-| **Creator**                     | ESX Framework       |
-| **Type**                        | Script              |
-| **Category**                    | EMS Job             |
-| **Game**                        | FiveM               |
-| **Framework**                   | ESX                 |
-| **Price**                       | Free                |
-| **License**                     | GNU GPL v3 or later |
-| **Version in current manifest** | `1.0.2`             |
-| **Legacy version**              | `1.15.0`            |
-| {.dense}                        |                     |
+| Field              | Information        |
+| ------------------ | ------------------ |
+| **Name**           | `esx_ambulancejob` |
+| **Creator**        | ESX Framework      |
+| **Type**           | Script             |
+| **Category**       | EMS Job            |
+| **Game**           | FiveM              |
+| **Framework**      | ESX Legacy         |
+| **Price**          | Free               |
+| **License**        | GPL-3.0-only       |
+| **Version**        | `1.0.2`            |
+| **Legacy Version** | `1.16.0`           |
+| {.dense}           |                    |
 
 ---
 

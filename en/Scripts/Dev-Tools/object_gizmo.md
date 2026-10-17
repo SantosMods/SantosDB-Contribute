@@ -2,8 +2,8 @@
 title: object_gizmo
 description: FiveM utility that exposes a 3D gizmo for interactively changing an entity's position and rotation.
 published: true
-date: 2026-09-14T23:56:37.522Z
-tags: developer-tool, library, standalone, object-editor
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, developer-tool
 editor: markdown
 dateCreated: 2026-09-14T23:56:37.522Z
 ---
@@ -24,6 +24,7 @@ FiveM utility that exposes a 3D gizmo for interactively changing an entity's pos
 | **Type**       | Library / Utility |
 | **Category**   | Object Editor     |
 | **Game**       | FiveM             |
+| **Price**      | Free              |
 | **License**    | GPL-3.0           |
 | **Dependency** | `ox_lib`          |
 | {.dense}       |                   |

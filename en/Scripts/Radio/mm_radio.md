@@ -2,8 +2,8 @@
 title: mm_radio
 description: FiveM radio system using pma-voice, with configurable channels, radio overlays, battery support, and radio jammers.
 published: true
-date: 2026-09-14T23:54:52.139Z
-tags: qbox, radio, script, voice
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, esx, qbox, nd-core, free, github, radio, voice
 editor: markdown
 dateCreated: 2026-09-14T23:54:52.139Z
 ---
@@ -24,6 +24,7 @@ FiveM radio system using `pma-voice`, with configurable channels, radio overlays
 | **Type**              | Script                                     |
 | **Category**          | Radio                                      |
 | **Game**              | FiveM                                      |
+| **Price**             | Free                                       |
 | **License**           | GPL-3.0                                    |
 | **Framework Support** | QBCore, ESX, Qbox, ND, standalone job list |
 | {.dense}              |                                            |
@@ -94,7 +95,7 @@ ensure mm_radio
 The official repository documents:
 
 ```bash
-git clone https://github.com/SOH69/mm_radio.git
+git clone https://github.com/SOH69/mm_radio
 cd mm_radio/web
 pnpm i
 pnpm run build

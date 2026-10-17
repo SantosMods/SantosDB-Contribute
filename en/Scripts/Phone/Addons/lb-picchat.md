@@ -2,8 +2,8 @@
 title: lb-picchat
 description: Paid LB Phone application installed as lb-picchat with its own SQL data and configurable locales.
 published: true
-date: 2026-09-14T01:56:32.110Z
-tags: phone-app, script, social, media
+date: 2026-10-16T12:00:00.000Z
+tags: script, paid, phone
 editor: markdown
 dateCreated: 2026-09-14T01:56:32.110Z
 ---
@@ -51,7 +51,7 @@ lb-phone
 ### Installation Checklist
 
 * [ ] Install `lb-phone`
-* [ ] Download `lb-picchat` from the authorized Cfx.re source
+* [ ] Download `lb-picchat` from the authorized LB Scripts source
 * [ ] Place it in your resources folder
 * [ ] Import `picchat.sql` using HeidiSQL
 * [ ] Configure the resource
@@ -97,7 +97,7 @@ lb-picchat/config/locales
 
 * [Official Installation Documentation](https://docs.lbscripts.com/picchat/installation/)
 * [Official Configuration Documentation](https://docs.lbscripts.com/picchat/configuration/)
-* [Authorized Store](https://store.lbscripts.com/)
+* [Authorized Store](https://lbscripts.com/)
 
 ---
 

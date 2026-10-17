@@ -2,8 +2,8 @@
 title: esx_notify
 description: esx_notify provides the notification system used by ESX resources.
 published: true
-date: 2026-09-08T00:25:29.186Z
-tags: esx, script, ui, notifications
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ui
 editor: markdown
 dateCreated: 2026-09-07T23:41:35.633Z
 ---
@@ -19,17 +19,18 @@ dateCreated: 2026-09-07T23:41:35.633Z
 
 ## Resource Information
 
-| Field         | Information      |
-| ------------- | ---------------- |
-| **Name**      | `esx_notify`     |
-| **Creator**   | ESX-Framework    |
-| **Type**      | Script           |
-| **Category**  | UI               |
-| **Game**      | FiveM            |
-| **Framework** | ESX Legacy       |
-| **Version**   | `1.14.0`         |
-| **License**   | GPL-3.0-or-later |
-| {.dense}      |                  |
+| Field         | Information   |
+| ------------- | ------------- |
+| **Name**      | `esx_notify`  |
+| **Creator**   | ESX Framework |
+| **Type**      | Script        |
+| **Category**  | UI            |
+| **Game**      | FiveM         |
+| **Framework** | ESX Legacy    |
+| **Price**     | Free          |
+| **Version**   | `1.16.0`      |
+| **License**   | GPL-3.0-only  |
+| {.dense}      |               |
 
 ---
 

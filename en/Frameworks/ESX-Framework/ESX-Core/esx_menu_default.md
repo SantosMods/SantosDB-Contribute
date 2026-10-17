@@ -2,8 +2,8 @@
 title: esx_menu_default
 description: esx_menu_default provides the default list-style menu used by ESX Legacy resources.
 published: true
-date: 2026-09-08T00:24:41.418Z
-tags: esx, menus, script, ui
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, menus, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:01.519Z
 ---
@@ -27,8 +27,9 @@ dateCreated: 2026-09-07T23:34:01.519Z
 | **Category**  | UI                 |
 | **Game**      | FiveM              |
 | **Framework** | ESX Legacy         |
-| **Version**   | `1.14.1`           |
-| **License**   | GPL-3.0-or-later   |
+| **Price**     | Free               |
+| **Version**   | `1.16.0`           |
+| **License**   | GPL-3.0-only       |
 | {.dense}      |                    |
 
 ---

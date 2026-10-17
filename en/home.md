@@ -2,7 +2,7 @@
 title: Home
 description: Find FiveM resources without searching through forums, Discord servers, GitHub repositories, and storefronts.
 published: true
-date: 2026-09-13T20:00:15.121Z
+date: 2026-10-16T12:00:00.000Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-07T03:40:23.209Z
@@ -23,7 +23,8 @@ SantosDB is a FiveM resource directory affiliated with **SantosMods.dev**. Brows
 
 | Category     | What You Will Find                                                                 |
 | ------------ | ---------------------------------------------------------------------------------- |
-| **Scripts**  | Framework resources, jobs, systems, UI, administration tools, and gameplay scripts |
+| **Frameworks** | Core frameworks and their official resources: ESX, QBCore, ND Framework, and Overextended |
+| **Scripts**  | Standalone and multi-framework scripts, libraries, jobs, systems, UI, administration tools, and gameplay scripts |
 | **EUP**      | Clothing, uniforms, and EUP packs                                                  |
 | **Vehicles** | FiveM vehicle resources and vehicle packs                                          |
 | **MLOs**     | Custom interiors and mapped locations                                              |
@@ -33,6 +34,8 @@ SantosDB is a FiveM resource directory affiliated with **SantosMods.dev**. Brows
 | **Tools**    | Development, server management, and utility tools                                  |
 | **Other**    | FiveM resources that do not fit another category                                   |
 | {.dense}     |                                                                                    |
+
+Frameworks and Scripts currently contain published pages. Other categories are added as pages are published.
 
 ---
 
@@ -83,15 +86,15 @@ Use categories and tags to narrow your search.
 
 Listings may use tags for:
 
-* Frameworks such as `qbox`, `qbcore`, `esx`, and `standalone`
-* Resource types such as `script`, `library`, `vehicle`, and `mlo`
+* Frameworks such as `esx`, `qbcore`, `qbox`, `ox-core`, `nd-core`, and `standalone`
+* Resource types such as `framework`, `script`, and `library`
 * Pricing such as `free` and `paid`
-* Sources such as `github`, `tebex`, and `cfx-re`
+* Sources such as `github` and `cfx-re`
 * Features such as `inventory`, `police`, `housing`, `vehicles`, `ui`, and `developer-tool`
 
 ---
 
-## Contribute to [SantosDB on Github!](https://github.com/SantosMods/SantosDB-Contribute)
+## Contribute to [SantosDB on GitHub!](https://github.com/SantosMods/SantosDB-Contribute)
 
 SantosDB accepts community contributions.
 

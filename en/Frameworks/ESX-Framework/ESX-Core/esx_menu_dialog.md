@@ -2,8 +2,8 @@
 title: esx_menu_dialog
 description: esx_menu_dialog provides an input dialog used by ESX Legacy resources.
 published: true
-date: 2026-09-08T00:25:00.169Z
-tags: esx, script, ui, input
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, ui
 editor: markdown
 dateCreated: 2026-09-07T23:34:51.978Z
 ---
@@ -27,8 +27,9 @@ dateCreated: 2026-09-07T23:34:51.978Z
 | **Category**  | UI                |
 | **Game**      | FiveM             |
 | **Framework** | ESX Legacy        |
-| **Version**   | `1.15.2`          |
-| **License**   | GPL-3.0-or-later  |
+| **Price**     | Free              |
+| **Version**   | `1.16.0`          |
+| **License**   | GPL-3.0-only      |
 | {.dense}      |                   |
 
 ---

@@ -2,8 +2,8 @@
 title: DiscordAcePerms
 description: DiscordAcePerms assigns FiveM ACE permission groups from Discord roles.
 published: true
-date: 2026-09-09T00:17:50.636Z
-tags: discord, script, permissions, ace
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, discord, admin
 editor: markdown
 dateCreated: 2026-09-09T00:17:49.088Z
 ---
@@ -26,8 +26,9 @@ DiscordAcePerms assigns FiveM ACE permission groups from Discord roles.
 | **Type**                  | Script            |
 | **Category**              | Permissions       |
 | **Game**                  | FiveM             |
+| **Price**                 | Free              |
 | **Version**               | `1.0`             |
-| **Framework Requirement** | None specified    |
+| **Framework Requirement** | Not specified     |
 | **License**               | MIT               |
 | **Source**                | GitHub            |
 | {.dense}                  |                   |

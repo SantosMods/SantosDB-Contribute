@@ -2,8 +2,8 @@
 title: qb-target
 description: FiveM targeting system for interacting with predefined entities, models, entity types, and PolyZones.
 published: true
-date: 2026-09-14T01:27:00.281Z
-tags: qbcore, script, target, interaction
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, target
 editor: markdown
 dateCreated: 2026-09-14T01:27:00.281Z
 ---

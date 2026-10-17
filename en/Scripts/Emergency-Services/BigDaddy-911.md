@@ -2,8 +2,8 @@
 title: BigDaddy-911
 description: Stand-alone emergency call script with configurable emergency numbers, map blips, Discord logging, BigDaddy-Chat integration, and a client export.
 published: true
-date: 2026-09-15T00:00:22.755Z
-tags: emergency-services, qbcore, qbox, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, esx, standalone, paid, emergency-services
 editor: markdown
 dateCreated: 2026-09-13T15:36:05.387Z
 ---

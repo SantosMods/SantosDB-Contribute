@@ -2,8 +2,8 @@
 title: qb-policejob
 description: QBCore police job resource with evidence, policing, jail, vehicle, armory, and law-enforcement systems.
 published: true
-date: 2026-09-14T01:27:37.993Z
-tags: jobs, police, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, jobs, police
 editor: markdown
 dateCreated: 2026-09-14T01:27:37.993Z
 ---

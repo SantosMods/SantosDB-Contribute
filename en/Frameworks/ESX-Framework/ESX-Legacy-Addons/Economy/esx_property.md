@@ -2,13 +2,13 @@
 title: esx_property
 description: esx_property provides configurable player properties and housing for ESX Legacy.
 published: true
-date: 2026-09-11T20:40:16.580Z
-tags: esx, housing, property, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, housing
 editor: markdown
 dateCreated: 2026-09-09T20:22:32.750Z
 ---
 
-# esx_property
+# esx_property [![](https://badges.5metrics.dev/esx_property/servers.svg?style=for-the-badge)](https://5metrics.dev/resource/esx_property)
 
 esx_property provides configurable player properties and housing for ESX Legacy.
 
@@ -30,6 +30,9 @@ esx_property provides configurable player properties and housing for ESX Legacy.
 | **Category**     | Housing / Property                |
 | **Game**         | FiveM                             |
 | **Framework**    | ESX Legacy                        |
+| **Price**        | Free                              |
+| **License**      | GPL-3.0-only                      |
+| **Version**      | `2.0`                             |
 | **Source**       | GitHub                            |
 | **Known Issues** | Major issues reported by ESX Team |
 | {.dense}         |                                   |

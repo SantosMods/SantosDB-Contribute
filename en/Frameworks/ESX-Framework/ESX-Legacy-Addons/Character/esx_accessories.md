@@ -2,8 +2,8 @@
 title: esx_accessories
 description: esx_accessories adds accessory shops and accessory management to ESX Legacy.
 published: true
-date: 2026-09-11T20:36:24.219Z
-tags: accessories, clothing, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, clothing
 editor: markdown
 dateCreated: 2026-09-09T20:19:22.980Z
 ---
@@ -27,7 +27,9 @@ esx_accessories adds accessory shops and accessory management to ESX Legacy.
 | **Category**  | Clothing / Accessories |
 | **Game**      | FiveM                  |
 | **Framework** | ESX Legacy             |
-| **License**   | GPL-3.0                |
+| **Price**     | Free                   |
+| **License**   | GPL-3.0-only           |
+| **Version**   | `1.1`                  |
 | **Source**    | GitHub                 |
 | {.dense}      |                        |
 

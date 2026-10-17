@@ -2,8 +2,8 @@
 title: bl_bridge
 description: Modular FiveM bridge that provides common interfaces across supported frameworks, inventories, targets, menus, notifications, and other systems.
 published: true
-date: 2026-09-14T23:55:37.167Z
-tags: library, qbcore, qbox, framework-bridge
+date: 2026-10-16T12:00:00.000Z
+tags: library, ox-core, qbcore, esx, qbox, free, github, bridge
 editor: markdown
 dateCreated: 2026-09-14T23:55:37.167Z
 ---
@@ -24,6 +24,7 @@ Modular FiveM bridge that provides common interfaces across supported frameworks
 | **Type**              | Library               |
 | **Category**          | Framework Bridge      |
 | **Game**              | FiveM                 |
+| **Price**             | Free                  |
 | **License**           | GPL-3.0               |
 | **Framework Support** | ox, QBCore, ESX, Qbox |
 | {.dense}              |                       |

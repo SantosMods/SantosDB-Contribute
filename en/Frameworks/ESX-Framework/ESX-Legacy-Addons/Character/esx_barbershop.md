@@ -2,8 +2,8 @@
 title: esx_barbershop
 description: ESX barbershop resource that uses esx_skin to let players pay to change hair and beard styles.
 published: true
-date: 2026-09-11T20:36:58.086Z
-tags: barbershop, character-customization, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, appearance
 editor: markdown
 dateCreated: 2026-09-11T20:29:43.116Z
 ---
@@ -27,8 +27,9 @@ ESX barbershop resource that uses `esx_skin` to let players change hair and bear
 | **Type**                 | Script                  |
 | **Category**             | Character Customization |
 | **Game**                 | FiveM                   |
-| **Framework**            | ESX                     |
-| **License**              | GNU GPL v3 or later     |
+| **Framework**            | ESX Legacy              |
+| **License**              | GPL-3.0-only            |
+| **Version**              | `1.0`                   |
 | **Price**                | Free                    |
 | **Configuration File**   | `config.lua`            |
 | {.dense}                 |                         |
@@ -135,7 +136,7 @@ Add or change entries in this table to modify barber shop locations.
 ## Links
 
 * [Official ESX Documentation](https://docs.esx-framework.org/en/esx_addons/esx_barbershop)
-* Official source repository: ESX Framework `ESX-Legacy-Addons`
+* [Official ESX-Legacy-Addons Repository](https://github.com/esx-framework/ESX-Legacy-Addons)
 
 ---
 

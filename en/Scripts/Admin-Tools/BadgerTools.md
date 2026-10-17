@@ -2,8 +2,8 @@
 title: BadgerTools
 description: BadgerTools provides staff administration, spectating, and voice tools for FiveM.
 published: true
-date: 2026-09-09T00:09:21.880Z
-tags: script, admin, spectate, voice-chat
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, admin, voice
 editor: markdown
 dateCreated: 2026-09-09T00:09:20.252Z
 ---
@@ -25,7 +25,9 @@ BadgerTools provides staff administration, spectating, and voice tools for FiveM
 | **Creator**  | Badger         |
 | **Type**     | Script         |
 | **Category** | Administration |
+| **License**  | MIT            |
 | **Game**     | FiveM          |
+| **Price**    | Free           |
 | **Source**   | GitHub         |
 | {.dense}     |                |
 

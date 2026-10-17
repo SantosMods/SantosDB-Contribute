@@ -2,8 +2,8 @@
 title: esx_taxijob
 description: ESX taxi job resource for transporting players or completing NPC passenger missions for payment.
 published: true
-date: 2026-09-11T20:50:37.739Z
-tags: esx, jobs, script, taxi
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, jobs
 editor: markdown
 dateCreated: 2026-09-11T20:50:37.739Z
 ---
@@ -19,20 +19,21 @@ ESX taxi job resource for transporting players or completing NPC passenger missi
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_taxijob`       |
-| **Creator / Maintainer** | ESX Framework       |
-| **Copyright**            | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Job                 |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_taxijob.sql`   |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information       |
+| ------------------------ | ----------------- |
+| **Name**                 | `esx_taxijob`     |
+| **Creator / Maintainer** | ESX Framework     |
+| **Copyright**            | Jérémie N'gadi    |
+| **Type**                 | Script            |
+| **Category**             | Job               |
+| **Game**                 | FiveM             |
+| **Framework**            | ESX Legacy        |
+| **License**              | GPL-3.0-only      |
+| **Version**              | `1.0`             |
+| **Price**                | Free              |
+| **Database File**        | `esx_taxijob.sql` |
+| **Configuration File**   | `config.lua`      |
+| {.dense}                 |                   |
 
 ---
 

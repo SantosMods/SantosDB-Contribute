@@ -2,8 +2,8 @@
 title: esx_policejob
 description: ESX police job with armories, vehicle garages, searching, handcuffing, and configurable police management features.
 published: true
-date: 2026-09-11T20:34:37.907Z
-tags: esx, law-enforcement, police, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, police
 editor: markdown
 dateCreated: 2026-09-10T03:31:16.521Z
 ---
@@ -19,19 +19,19 @@ dateCreated: 2026-09-10T03:31:16.521Z
 
 ## Resource Information
 
-| Field              | Information         |
-| ------------------ | ------------------- |
-| **Name**           | `esx_policejob`     |
-| **Creator**        | ESX Framework       |
-| **Type**           | Script              |
-| **Category**       | Police Job          |
-| **Game**           | FiveM               |
-| **Framework**      | ESX                 |
-| **Price**          | Free                |
-| **License**        | GNU GPL v3 or later |
-| **Version**        | `1.0.2`             |
-| **Legacy Version** | `1.14.1`            |
-| {.dense}           |                     |
+| Field              | Information     |
+| ------------------ | --------------- |
+| **Name**           | `esx_policejob` |
+| **Creator**        | ESX Framework   |
+| **Type**           | Script          |
+| **Category**       | Police Job      |
+| **Game**           | FiveM           |
+| **Framework**      | ESX Legacy      |
+| **Price**          | Free            |
+| **License**        | GPL-3.0-only    |
+| **Version**        | `1.0.2`         |
+| **Legacy Version** | `1.16.0`        |
+| {.dense}           |                 |
 
 ---
 

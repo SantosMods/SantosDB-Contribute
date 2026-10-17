@@ -2,8 +2,8 @@
 title: lb-payphone
 description: Paid LB Phone add-on that lets players call people and companies from configured GTA V payphones.
 published: true
-date: 2026-09-14T01:57:14.726Z
-tags: esx, phone, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, paid, phone
 editor: markdown
 dateCreated: 2026-09-14T01:57:14.725Z
 ---
@@ -76,7 +76,7 @@ ox_target
 
 * [ ] Install `loaf_lib`
 * [ ] Install `lb-phone`
-* [ ] Download `lb-payphone` from the authorized Cfx.re source
+* [ ] Download `lb-payphone` from the authorized LB Scripts source
 * [ ] Place it in your resources folder
 * [ ] Configure interaction and calling settings
 * [ ] Start it after `lb-phone`
@@ -160,7 +160,7 @@ Config.Models
 * [Official Documentation](https://docs.lbscripts.com/payphone/)
 * [Installation](https://docs.lbscripts.com/payphone/installation/)
 * [Configuration](https://docs.lbscripts.com/payphone/configuration/)
-* [Authorized Purchase Page](https://store.lbscripts.com/package/5932915)
+* [Authorized Purchase Page](https://lbscripts.com/package/payphone)
 
 ---
 

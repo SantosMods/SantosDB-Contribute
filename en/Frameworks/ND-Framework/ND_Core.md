@@ -2,8 +2,8 @@
 title: ND_Core
 description: ND_Core is the core resource for ND Framework.
 published: true
-date: 2026-09-08T00:21:26.064Z
-tags: developer-tool, framework, nd, core
+date: 2026-10-16T12:00:00.000Z
+tags: framework, nd-core, free, github, core
 editor: markdown
 dateCreated: 2026-09-07T06:19:06.707Z
 ---
@@ -25,6 +25,7 @@ ND_Core is the core resource for ND Framework.
 | **Creator**   | Andyyy       |
 | **Type**      | Framework    |
 | **Game**      | FiveM        |
+| **Price**     | Free         |
 | **Framework** | ND Framework |
 | **Version**   | `2.3.2`      |
 | **License**   | GPL-3.0      |

@@ -2,8 +2,8 @@
 title: ND_Ambulance
 description: ND_Ambulance provides ambulance, medical, injury, and hospital systems for FiveM.
 published: true
-date: 2026-09-08T00:21:23.927Z
-tags: jobs, nd, script, ems
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, esx, qbcore, github, jobs, ems
 editor: markdown
 dateCreated: 2026-09-07T06:24:12.279Z
 ---

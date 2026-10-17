@@ -2,8 +2,8 @@
 title: esx_drugs
 description: ESX marijuana resource for harvesting, processing, and selling configured drug items.
 published: true
-date: 2026-09-11T20:44:59.428Z
-tags: esx, script, drugs, item-farming
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, jobs
 editor: markdown
 dateCreated: 2026-09-11T20:44:59.428Z
 ---
@@ -19,20 +19,21 @@ ESX marijuana resource for harvesting, processing, and selling configured drug i
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_drugs`         |
-| **Creator / Maintainer** | ESX Framework       |
-| **Original Copyright**   | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Drugs               |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_drugs.sql`     |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information     |
+| ------------------------ | --------------- |
+| **Name**                 | `esx_drugs`     |
+| **Creator / Maintainer** | ESX Framework   |
+| **Original Copyright**   | Jérémie N'gadi  |
+| **Type**                 | Script          |
+| **Category**             | Drugs           |
+| **Game**                 | FiveM           |
+| **Framework**            | ESX Legacy      |
+| **License**              | GPL-3.0-only    |
+| **Version**              | `1.0.1`         |
+| **Price**                | Free            |
+| **Database File**        | `esx_drugs.sql` |
+| **Configuration File**   | `config.lua`    |
+| {.dense}                 |                 |
 
 ---
 

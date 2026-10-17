@@ -2,8 +2,8 @@
 title: interact-sound
 description: FiveM resource for playing sounds through the NUI environment on individual, all, or nearby clients.
 published: true
-date: 2026-09-14T01:44:03.193Z
-tags: audio, script, standalone, nui
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, audio
 editor: markdown
 dateCreated: 2026-09-14T01:44:03.193Z
 ---

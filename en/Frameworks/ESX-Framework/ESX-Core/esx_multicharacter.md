@@ -2,8 +2,8 @@
 title: esx_multicharacter
 description: esx_multicharacter allows ESX Legacy players to create and use multiple characters.
 published: true
-date: 2026-09-08T00:25:13.760Z
-tags: characters, esx, multicharacter, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, characters
 editor: markdown
 dateCreated: 2026-09-07T23:40:50.580Z
 ---
@@ -22,13 +22,14 @@ dateCreated: 2026-09-07T23:40:50.580Z
 | Field         | Information                  |
 | ------------- | ---------------------------- |
 | **Name**      | `esx_multicharacter`         |
-| **Creator**   | ESX-Framework, Linden & KASH |
+| **Creator**   | ESX Framework, Linden & KASH |
 | **Type**      | Script                       |
 | **Category**  | Characters                   |
 | **Game**      | FiveM                        |
 | **Framework** | ESX Legacy                   |
-| **Version**   | `1.15.0`                     |
-| **License**   | GPL-3.0-or-later             |
+| **Price**     | Free                         |
+| **Version**   | `1.16.0`                     |
+| **License**   | GPL-3.0-only                 |
 | {.dense}      |                              |
 
 ---

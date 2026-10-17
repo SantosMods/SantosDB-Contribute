@@ -2,8 +2,8 @@
 title: qb-garages
 description: QBCore garage system for public, house, job, gang, and depot vehicle storage.
 published: true
-date: 2026-09-14T01:33:21.874Z
-tags: garage, qbcore, script, vehicles
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, garage, vehicles
 editor: markdown
 dateCreated: 2026-09-14T01:33:21.874Z
 ---
@@ -155,7 +155,7 @@ Garage types include public, job, gang, and depot configurations.
 ## Links
 
 * [Official GitHub Repository](https://github.com/qbcore-fivem/qb-garages)
-* [Official QBCore Documentation](https://docs.qbcore.org/qbcore-documentation/qbcore-resources/qb-garages)
+* [Official QBCore Documentation](https://qbcore.org/docs/qbcore-resources/qb-garages)
 
 ---
 

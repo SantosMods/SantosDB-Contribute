@@ -2,8 +2,8 @@
 title: BigDaddy-BDMenu
 description: Free developer menu resource that opens JSON-defined or dynamically generated menus while retaining keyboard and mouse game control.
 published: true
-date: 2026-09-13T17:56:57.584Z
-tags: developer-tool, library, menus, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: library, qbcore, qbox, esx, standalone, free, developer-tool, menus
 editor: markdown
 dateCreated: 2026-09-13T17:56:57.584Z
 ---

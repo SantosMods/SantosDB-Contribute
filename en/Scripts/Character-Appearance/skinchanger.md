@@ -2,8 +2,8 @@
 title: skinchanger
 description: FiveM skin and character component changer with events for loading and retrieving player appearance data.
 published: true
-date: 2026-09-14T01:49:58.568Z
-tags: appearance, characters, clothing, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, appearance, characters, clothing
 editor: markdown
 dateCreated: 2026-09-14T01:49:58.568Z
 ---

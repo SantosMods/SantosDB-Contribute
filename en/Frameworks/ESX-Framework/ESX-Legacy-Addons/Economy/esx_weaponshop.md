@@ -2,8 +2,8 @@
 title: esx_weaponshop
 description: esx_weaponshop provides configurable weapon shops for ESX Legacy.
 published: true
-date: 2026-09-11T20:38:58.083Z
-tags: esx, script, shops, weapons
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, shops, weapons
 editor: markdown
 dateCreated: 2026-09-08T00:52:30.197Z
 ---
@@ -27,8 +27,10 @@ dateCreated: 2026-09-08T00:52:30.197Z
 | **Category**  | Weapons          |
 | **Game**      | FiveM            |
 | **Framework** | ESX Legacy       |
+| **Price**     | Free             |
+| **License**   | GPL-3.0-only     |
 | **Version**   | `1.0`            |
-| **Source**    | ESX Framework    |
+| **Source**    | GitHub           |
 | {.dense}      |                  |
 
 ---

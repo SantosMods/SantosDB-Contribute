@@ -2,8 +2,8 @@
 title: mana_audio
 description: FiveM API for playing native audio globally, from entities, or from world coordinates.
 published: true
-date: 2026-09-14T02:18:49.121Z
-tags: audio, developer-tool, library, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, audio
 editor: markdown
 dateCreated: 2026-09-14T02:18:49.121Z
 ---
@@ -26,6 +26,7 @@ FiveM API for playing native audio globally, from entities, or from world coordi
 | **Type**      | Library      |
 | **Category**  | Audio        |
 | **Game**      | FiveM        |
+| **Price**     | Free         |
 | **License**   | GPL-3.0      |
 | **Framework** | Standalone   |
 | {.dense}      |              |

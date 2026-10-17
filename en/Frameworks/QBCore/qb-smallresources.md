@@ -2,8 +2,8 @@
 title: qb-smallresources
 description: Collection of small QBCore gameplay resources and utility features combined into one resource.
 published: true
-date: 2026-09-14T01:29:44.101Z
-tags: qbcore, script, utility, gameplay
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, free, github, utility
 editor: markdown
 dateCreated: 2026-09-14T01:29:44.101Z
 ---

@@ -2,8 +2,8 @@
 title: ps-mdt
 description: FiveM law-enforcement MDT for QBCore and Qbox through the ps_lib framework abstraction layer.
 published: true
-date: 2026-09-14T02:14:58.197Z
-tags: police, qbcore, qbox, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, free, github, police
 editor: markdown
 dateCreated: 2026-09-14T02:14:58.197Z
 ---
@@ -26,6 +26,7 @@ FiveM law-enforcement MDT for QBCore and Qbox through the `ps_lib` framework abs
 | **Type**              | Script          |
 | **Category**          | Police MDT      |
 | **Game**              | FiveM           |
+| **Price**             | Free            |
 | **License**           | CC BY-NC-SA 4.0 |
 | **Framework Support** | QBCore, Qbox    |
 | {.dense}              |                 |

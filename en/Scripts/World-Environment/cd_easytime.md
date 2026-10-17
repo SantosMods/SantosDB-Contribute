@@ -2,8 +2,8 @@
 title: cd_easytime
 description: FiveM time and weather management resource with an administrative UI for changing server weather and time.
 published: true
-date: 2026-09-14T23:52:29.588Z
-tags: script, standalone, weather-control, time
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, weather
 editor: markdown
 dateCreated: 2026-09-14T23:52:29.588Z
 ---
@@ -17,17 +17,18 @@ FiveM time and weather management resource with an administrative UI for changin
 
 ## Resource Information
 
-| Field              | Information               |
-| ------------------ | ------------------------- |
-| **Name**           | `cd_easytime`             |
-| **Project**        | Easytime                  |
-| **Repository**     | `dsheedes/cd_easytime`    |
-| **Type**           | Script                    |
-| **Category**       | Time and Weather          |
-| **Game**           | FiveM                     |
-| **Base operation** | Standalone                |
-| **License**        | Custom repository license |
-| {.dense}           |                           |
+| Field              | Information            |
+| ------------------ | ---------------------- |
+| **Name**           | `cd_easytime`          |
+| **Project**        | Easytime               |
+| **Repository**     | `dsheedes/cd_easytime` |
+| **Type**           | Script                 |
+| **Category**       | Time and Weather       |
+| **Game**           | FiveM                  |
+| **Price**          | Free                   |
+| **Base operation** | Standalone             |
+| **License**        | CC BY-NC-SA 4.0        |
+| {.dense}           |                        |
 
 ## Resource Details {.tabset}
 

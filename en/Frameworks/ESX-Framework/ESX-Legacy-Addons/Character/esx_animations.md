@@ -2,8 +2,8 @@
 title: esx_animations
 description: Lightweight ESX script that lets players select and play configured FiveM animations.
 published: true
-date: 2026-09-11T20:36:46.547Z
-tags: animation-menu, animations, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, animations
 editor: markdown
 dateCreated: 2026-09-10T03:32:05.252Z
 ---
@@ -19,19 +19,19 @@ dateCreated: 2026-09-10T03:32:05.252Z
 
 ## Resource Information
 
-| Field              | Information         |
-| ------------------ | ------------------- |
-| **Name**           | `esx_animations`    |
-| **Creator**        | ESX Framework       |
-| **Type**           | Script              |
-| **Category**       | Animations          |
-| **Game**           | FiveM               |
-| **Framework**      | ESX                 |
-| **Price**          | Free                |
-| **License**        | GNU GPL v3 or later |
-| **Version**        | `1.0`               |
-| **Legacy Version** | `1.15.0`            |
-| {.dense}           |                     |
+| Field              | Information      |
+| ------------------ | ---------------- |
+| **Name**           | `esx_animations` |
+| **Creator**        | ESX Framework    |
+| **Type**           | Script           |
+| **Category**       | Animations       |
+| **Game**           | FiveM            |
+| **Framework**      | ESX Legacy       |
+| **Price**          | Free             |
+| **License**        | GPL-3.0-only     |
+| **Version**        | `1.1`            |
+| **Legacy Version** | `1.16.0`         |
+| {.dense}           |                  |
 
 ---
 

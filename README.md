@@ -51,22 +51,28 @@ Keep paths simple and consistent.
 ```text
 /Scripts/Libraries/ox_lib
 /Scripts/Inventory/ox_inventory
+/Frameworks/QBCore/qb-core
+/Frameworks/ESX-Framework/ESX-Core/es_extended
+/Frameworks/ND-Framework/ND_Core
+/Frameworks/Overextended/ox_core
 /EUP/Developer-Name/Type/Name
 /Vehicles/Developer-Name/Type/Name
 /MLOs/Developer-Name/Name
 /YMAPs/Developer-Name/Name
 ```
 
-Use tags for important resource information such as:
+Use tags for important resource information. Put them in this order, lowercase and hyphenated:
 
-```text
-free
-qbox
-overextended
-github
-```
+| Group     | Tags                                                            |
+| --------- | --------------------------------------------------------------- |
+| Type      | `framework`, `script`, `library`                                |
+| Framework | `esx`, `qbcore`, `qbox`, `ox-core`, `nd-core`, `standalone`     |
+| Price     | `free`, `paid`                                                  |
+| Source    | `github`, `cfx-re`                                              |
+| Creator   | `overextended` (Overextended resources only)                    |
+| Category  | Up to three, for example `inventory`, `police`, `ui`, `phone`   |
 
-Keep tags relevant. Avoid unnecessary or duplicate tags.
+Only add framework tags the official source states are supported. Add `free` or `paid` only when the price is confirmed. Reuse an existing category tag before creating a new one. Avoid duplicate tags.
 
 Use existing SantosDB pages as the main formatting reference.
 

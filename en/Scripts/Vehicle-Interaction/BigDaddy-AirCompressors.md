@@ -2,8 +2,8 @@
 title: BigDaddy-AirCompressors
 description: Lets players use in-world air compressor props to check tire pressure and refill or repair vehicle tires.
 published: true
-date: 2026-09-13T18:02:15.560Z
-tags: qbcore, qbox, script, vehicle-repair
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, esx, standalone, paid, mechanic
 editor: markdown
 dateCreated: 2026-09-13T15:38:50.059Z
 ---

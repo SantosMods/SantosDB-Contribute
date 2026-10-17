@@ -2,8 +2,8 @@
 title: bob74_ipl
 description: FiveM resource that loads missing map IPLs and provides functions for customizing GTA V interiors.
 published: true
-date: 2026-09-14T01:40:17.363Z
-tags: script, standalone, interiors, ipl
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, world
 editor: markdown
 dateCreated: 2026-09-14T01:40:17.363Z
 ---

@@ -2,8 +2,8 @@
 title: ND_Police
 description: ND_Police provides police job systems and law enforcement tools for FiveM.
 published: true
-date: 2026-09-08T00:21:38.408Z
-tags: nd, script, police, jobs
+date: 2026-10-16T12:00:00.000Z
+tags: script, nd-core, esx, qbcore, free, github, police, jobs
 editor: markdown
 dateCreated: 2026-09-07T06:20:28.383Z
 ---
@@ -26,6 +26,7 @@ ND_Police provides police job systems and law enforcement tools for FiveM.
 | **Type**              | Script                |
 | **Category**          | Police                |
 | **Game**              | FiveM                 |
+| **Price**             | Free                  |
 | **Framework Support** | ND Framework, ESX, QB |
 | **License**           | GPL-3.0               |
 | **Source**            | GitHub                |

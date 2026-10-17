@@ -2,8 +2,8 @@
 title: esx_addonaccount
 description: ESX addon that stores shared and player-specific account data such as society funds.
 published: true
-date: 2026-09-10T03:27:39.810Z
-tags: esx, script, accounts, shared-accounts
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, banking
 editor: markdown
 dateCreated: 2026-09-10T03:27:39.810Z
 ---
@@ -19,19 +19,19 @@ dateCreated: 2026-09-10T03:27:39.810Z
 
 ## Resource Information
 
-| Field                           | Information         |
-| ------------------------------- | ------------------- |
-| **Name**                        | `esx_addonaccount`  |
-| **Creator**                     | ESX Framework       |
-| **Type**                        | Script              |
-| **Category**                    | Account storage     |
-| **Game**                        | FiveM               |
-| **Framework**                   | ESX                 |
-| **Price**                       | Free                |
-| **License**                     | GNU GPL v3 or later |
-| **Version in current manifest** | `1.1`               |
-| **Legacy version**              | `1.15.0`            |
-| {.dense}                        |                     |
+| Field              | Information        |
+| ------------------ | ------------------ |
+| **Name**           | `esx_addonaccount` |
+| **Creator**        | ESX Framework      |
+| **Type**           | Script             |
+| **Category**       | Account storage    |
+| **Game**           | FiveM              |
+| **Framework**      | ESX Legacy         |
+| **Price**          | Free               |
+| **License**        | GPL-3.0-only       |
+| **Version**        | `1.1`              |
+| **Legacy Version** | `1.16.0`           |
+| {.dense}           |                    |
 
 ---
 

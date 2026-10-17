@@ -2,8 +2,8 @@
 title: BigDaddy-AnimalKingdom
 description: Spawns networked wildlife in configurable map zones using animal groups, spawn limits, and PolyZone-defined areas.
 published: true
-date: 2026-09-13T18:03:03.485Z
-tags: ambient-spawns, animals, script, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, paid, world
 editor: markdown
 dateCreated: 2026-09-13T17:52:48.010Z
 ---

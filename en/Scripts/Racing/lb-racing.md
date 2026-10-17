@@ -2,8 +2,8 @@
 title: lb-racing
 description: Paid FiveM racing system with race creation, track creation, standalone tablet use, and LB Phone and LB Tablet integration.
 published: true
-date: 2026-09-14T01:53:18.326Z
-tags: script, ui, vehicles, racing
+date: 2026-10-16T12:00:00.000Z
+tags: script, paid, ui, vehicles, racing
 editor: markdown
 dateCreated: 2026-09-14T01:53:18.326Z
 ---
@@ -136,7 +136,7 @@ These values can be changed in configuration.
 * [Official Documentation](https://docs.lbscripts.com/racing/)
 * [Installation](https://docs.lbscripts.com/racing/installation/)
 * [Configuration](https://docs.lbscripts.com/racing/configuration/)
-* [Authorized Store](https://store.lbscripts.com/)
+* [Authorized Store](https://lbscripts.com/)
 
 ---
 

@@ -2,8 +2,8 @@
 title: pma-voice
 description: FiveM and RedM voice system built around the internal Mumble server.
 published: true
-date: 2026-09-14T01:39:39.074Z
-tags: script, standalone, voice, mumble
+date: 2026-10-16T12:00:00.000Z
+tags: script, standalone, free, github, voice
 editor: markdown
 dateCreated: 2026-09-14T01:39:39.074Z
 ---
@@ -27,7 +27,7 @@ FiveM and RedM voice system built around the internal Mumble server.
 | **Category**   | Voice         |
 | **Games**      | FiveM, RedM   |
 | **Price**      | Free          |
-| **License**    | Unknown       |
+| **License**    | MIT           |
 | **Framework**  | Standalone    |
 | **Dependency** | OneSync       |
 | {.dense}       |               |

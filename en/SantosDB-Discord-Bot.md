@@ -2,8 +2,8 @@
 title: SantosDB | Discord Bot
 description: Discord bot for searching, browsing, and viewing live SantosDB resource information through the SantosDB Wiki.js API.
 published: true
-date: 2026-09-16T00:43:55.242Z
-tags: 
+date: 2026-10-16T12:00:00.000Z
+tags: discord, bot
 editor: markdown
 dateCreated: 2026-09-15T01:55:25.525Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2026-09-15T01:55:25.525Z
 
 The **SantosDB Discord Bot** lets you search, browse, and discover SantosDB pages directly from Discord.
 
-[**Invite the SantosDB Discord Bot**](https://discord.com/oauth2/authorize?client_id=1549233730927988788&permissions=137439266880&integration_type=0&scope=bot)
+[**Invite the SantosDB Discord Bot**](https://discord.com/oauth2/authorize?client_id=1549233730927988788&permissions=412317174848&integration_type=0&scope=bot+applications.commands)
 
 > The bot uses the SantosDB API to retrieve current SantosDB information.
 > {.is-info}

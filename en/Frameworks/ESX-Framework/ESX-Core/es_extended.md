@@ -2,8 +2,8 @@
 title: es_extended
 description: es_extended is the main core resource for ESX Framework.
 published: true
-date: 2026-09-08T00:26:20.385Z
-tags: core, framework, roleplay, esx
+date: 2026-10-16T12:00:00.000Z
+tags: framework, esx, free, github, core
 editor: markdown
 dateCreated: 2026-09-07T21:37:08.904Z
 ---
@@ -19,18 +19,19 @@ dateCreated: 2026-09-07T21:37:08.904Z
 
 ## Resource Information
 
-| Field         | Information            |
-| ------------- | ---------------------- |
-| **Name**      | `es_extended`          |
-| **Creator**   | ESX Framework          |
-| **Type**      | Framework              |
-| **Category**  | Core                   |
-| **Game**      | FiveM                  |
-| **Framework** | ESX Legacy             |
-| **Version**   | `1.14.1`               |
-| **License**   | GPL-3.0                |
-| **Source**    | Official ESX Framework |
-| {.dense}      |                        |
+| Field         | Information   |
+| ------------- | ------------- |
+| **Name**      | `es_extended` |
+| **Creator**   | ESX Framework |
+| **Type**      | Framework     |
+| **Category**  | Core          |
+| **Game**      | FiveM         |
+| **Framework** | ESX Legacy    |
+| **Price**     | Free          |
+| **Version**   | `1.16.0`      |
+| **License**   | GPL-3.0-only  |
+| **Source**    | GitHub        |
+| {.dense}      |               |
 
 ---
 

@@ -2,8 +2,8 @@
 title: esx_basicneeds
 description: ESX hunger and thirst resource that uses esx_status and supports configurable food and drink items.
 published: true
-date: 2026-09-11T20:39:32.358Z
-tags: esx, needs, script, status
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, status
 editor: markdown
 dateCreated: 2026-09-11T20:30:19.698Z
 ---
@@ -27,8 +27,9 @@ ESX hunger and thirst resource with configurable food and drink items.
 | **Type**                 | Script               |
 | **Category**             | Player Needs         |
 | **Game**                 | FiveM                |
-| **Framework**            | ESX                  |
-| **License**              | GNU GPL v3 or later  |
+| **Framework**            | ESX Legacy           |
+| **License**              | GPL-3.0-only         |
+| **Version**              | `1.0`                |
 | **Price**                | Free                 |
 | **Database File**        | `esx_basicneeds.sql` |
 | **Configuration File**   | `config.lua`         |
@@ -181,7 +182,7 @@ end)
 ## Links
 
 * [Official ESX Documentation](https://docs.esx-framework.org/en/esx_addons/esx_basicneeds)
-* Official source repository: ESX Framework `ESX-Legacy-Addons`
+* [Official ESX-Legacy-Addons Repository](https://github.com/esx-framework/ESX-Legacy-Addons)
 
 ---
 

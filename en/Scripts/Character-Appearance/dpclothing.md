@@ -2,8 +2,8 @@
 title: dpclothing
 description: FiveM clothing utility for toggling and changing character clothing components and variations.
 published: true
-date: 2026-09-14T23:51:46.616Z
-tags: appearance, characters, clothing, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, github, cfx-re, appearance, characters, clothing
 editor: markdown
 dateCreated: 2026-09-14T23:51:46.616Z
 ---
@@ -83,7 +83,7 @@ Preserve the component and variation structure expected by the resource when cus
 ## Links
 
 * [Official GitHub Repository](https://github.com/andristum/dpclothing)
-* [Official Cfx.re Release](https://forum.cfx.re/t/dpclothing-1-0-0-clothing-variations-and-toggles-gloves-vest-top-hair-bag-and-more/1326317)
+* [Official Cfx.re Release](https://forum.cfx.re/t/dpclothing-1-0-3-clothing-variations-and-toggles-gloves-vest-top-hair-bag-and-more/1326317)
 
 ## Credits
 

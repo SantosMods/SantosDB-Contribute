@@ -2,8 +2,8 @@
 title: esx_license
 description: ESX license system for adding, removing, retrieving, and checking player licenses such as driving licenses.
 published: true
-date: 2026-09-11T20:46:46.691Z
-tags: developer-tool, esx, licenses, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, licenses
 editor: markdown
 dateCreated: 2026-09-11T20:46:46.691Z
 ---
@@ -19,19 +19,20 @@ ESX license system for managing player licenses such as driving licenses.
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_license`       |
-| **Creator / Maintainer** | ESX Framework       |
-| **Type**                 | Script              |
-| **Category**             | License System      |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_license.sql`   |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information       |
+| ------------------------ | ----------------- |
+| **Name**                 | `esx_license`     |
+| **Creator / Maintainer** | ESX Framework     |
+| **Type**                 | Script            |
+| **Category**             | License System    |
+| **Game**                 | FiveM             |
+| **Framework**            | ESX Legacy        |
+| **License**              | GPL-3.0-only      |
+| **Version**              | `1.0`             |
+| **Price**                | Free              |
+| **Database File**        | `esx_license.sql` |
+| **Configuration File**   | `config.lua`      |
+| {.dense}                 |                   |
 
 ---
 

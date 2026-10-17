@@ -2,8 +2,8 @@
 title: BigDaddy-ApocalypseRoulette
 description: Lets players wager configured ox_inventory items on a roulette wheel for multiplied rewards, losses, or a lethal skull result.
 published: true
-date: 2026-09-13T18:03:24.223Z
-tags: inventory-game, qbcore, qbox, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, paid, minigame
 editor: markdown
 dateCreated: 2026-09-13T17:54:07.756Z
 ---
@@ -33,7 +33,7 @@ Apocalypse Roulette lets players wager inventory items on a configurable roulett
 | **Inventory**       | `ox_inventory`                |
 | **Library**         | `ox_lib`                      |
 | **Targeting**       | `ox_target`                   |
-| **ESX**             | 🚫 Not implemented            |
+| **ESX**             | 🚫 Not implemented             |
 | {.dense}            |                               |
 
 The official compatibility table marks QBCore and Qbox with **✅**, meaning framework integration is implemented and verified. ESX is marked **🚫**.

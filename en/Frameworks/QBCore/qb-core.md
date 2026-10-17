@@ -2,8 +2,8 @@
 title: qb-core
 description: Core FiveM roleplay framework resource for QBCore.
 published: true
-date: 2026-09-14T01:26:15.532Z
-tags: core, framework, qbcore, roleplay
+date: 2026-10-16T12:00:00.000Z
+tags: framework, qbcore, free, github, core
 editor: markdown
 dateCreated: 2026-09-14T01:26:15.532Z
 ---

@@ -2,8 +2,8 @@
 title: Badssentials
 description: Badssentials combines AOP, PeaceTime, postal, HUD, revive, respawn, and announcement utilities for FiveM.
 published: true
-date: 2026-09-09T00:19:52.453Z
-tags: hud, script, aop, peacetime
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, hud
 editor: markdown
 dateCreated: 2026-09-09T00:19:50.803Z
 ---
@@ -26,7 +26,8 @@ Badssentials combines AOP, PeaceTime, postal, HUD, revive, respawn, and announce
 | **Type**                  | Script           |
 | **Category**              | Server Utilities |
 | **Game**                  | FiveM            |
-| **Framework Requirement** | None specified   |
+| **Price**                 | Free             |
+| **Framework Requirement** | Not specified    |
 | **License**               | MIT              |
 | **Source**                | GitHub           |
 | {.dense}                  |                  |

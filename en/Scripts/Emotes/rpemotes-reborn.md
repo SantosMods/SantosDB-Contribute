@@ -2,8 +2,8 @@
 title: rpemotes-reborn
 description: Community-driven FiveM emote menu with animations, facial expressions, walk styles, props, shared emotes, and framework support.
 published: true
-date: 2026-09-14T23:57:14.523Z
-tags: esx, qbcore, script, emotes
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, free, github, animations
 editor: markdown
 dateCreated: 2026-09-14T23:57:14.523Z
 ---
@@ -130,7 +130,7 @@ Keep a backup of your configuration and custom animations before upgrading.
 
 * [Official GitHub Repository](https://github.com/alberttheprince/rpemotes-reborn)
 * [Official Releases](https://github.com/alberttheprince/rpemotes-reborn/releases)
-* [Official Documentation](https://rpemotes-reborn.gitbook.io/guide)
+* [Official Documentation](https://rpemotes-reborn.gitbook.io/rpemotes-reborn)
 
 ## Credits
 

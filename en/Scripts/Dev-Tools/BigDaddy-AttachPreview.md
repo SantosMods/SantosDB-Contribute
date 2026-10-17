@@ -2,8 +2,8 @@
 title: BigDaddy-AttachPreview
 description: In-game developer tool for visually positioning up to two props on a ped, previewing animations, and generating C#, Lua, or JSON attachment data.
 published: true
-date: 2026-09-13T17:55:47.270Z
-tags: developer-tool, standalone, tool, prop-attachment
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, esx, standalone, paid, developer-tool
 editor: markdown
 dateCreated: 2026-09-13T17:55:47.270Z
 ---

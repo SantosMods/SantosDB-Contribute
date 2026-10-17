@@ -2,8 +2,8 @@
 title: BigDaddy-AFK
 description: Monitors keyboard, mouse, and controller activity to remove inactive players while providing events that temporarily suspend AFK checks.
 published: true
-date: 2026-09-13T18:01:07.968Z
-tags: afk, qbcore, qbox, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, esx, standalone, paid, admin
 editor: markdown
 dateCreated: 2026-09-13T15:37:35.531Z
 ---

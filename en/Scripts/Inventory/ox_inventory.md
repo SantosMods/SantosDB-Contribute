@@ -2,8 +2,8 @@
 title: ox_inventory
 description: An inventory system for FiveM.
 published: true
-date: 2026-09-08T00:21:46.802Z
-tags: free, overextended, script, inventory
+date: 2026-10-16T12:00:00.000Z
+tags: script, ox-core, esx, qbox, nd-core, free, github, overextended, inventory
 editor: markdown
 dateCreated: 2026-09-07T03:54:06.881Z
 ---
@@ -27,7 +27,7 @@ A slot-based FiveM inventory system with item metadata, shops, stashes, crafting
 | **Category** | Inventory        |
 | **Game**     | FiveM            |
 | **Price**    | Free             |
-| **License**  | GPL-3.0 or later |
+| **License**  | GPL-3.0-or-later |
 | **Source**   | GitHub           |
 | **Status**   | Active           |
 | {.dense}     |                  |

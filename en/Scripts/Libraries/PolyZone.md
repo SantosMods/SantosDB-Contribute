@@ -2,8 +2,8 @@
 title: PolyZone
 description: FiveM zone library for defining shapes and testing whether points are inside or outside configured zones.
 published: true
-date: 2026-09-14T01:40:58.899Z
-tags: developer-tool, script, standalone, zones
+date: 2026-10-16T12:00:00.000Z
+tags: script, library, standalone, free, github, developer-tool
 editor: markdown
 dateCreated: 2026-09-14T01:40:58.899Z
 ---

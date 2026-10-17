@@ -2,8 +2,8 @@
 title: esx_billing
 description: ESX billing resource that lets jobs send player invoices and provides a menu for viewing and paying bills.
 published: true
-date: 2026-09-11T20:37:38.329Z
-tags: billing, esx, jobs, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, jobs
 editor: markdown
 dateCreated: 2026-09-11T20:31:04.793Z
 ---
@@ -19,20 +19,21 @@ ESX billing resource for sending, viewing, and paying player invoices.
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_billing`       |
-| **Creator / Maintainer** | ESX Framework       |
-| **Original Copyright**   | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Billing             |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_billing.sql`   |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information       |
+| ------------------------ | ----------------- |
+| **Name**                 | `esx_billing`     |
+| **Creator / Maintainer** | ESX Framework     |
+| **Original Copyright**   | Jérémie N'gadi    |
+| **Type**                 | Script            |
+| **Category**             | Billing           |
+| **Game**                 | FiveM             |
+| **Framework**            | ESX Legacy        |
+| **License**              | GPL-3.0-only      |
+| **Version**              | `1.0`             |
+| **Price**                | Free              |
+| **Database File**        | `esx_billing.sql` |
+| **Configuration File**   | `config.lua`      |
+| {.dense}                 |                   |
 
 ---
 
@@ -142,7 +143,7 @@ The event parameters in the example identify the target player, society account,
 ## Links
 
 * [Official ESX Documentation](https://docs.esx-framework.org/en/esx_addons/esx_billing)
-* Official source repository: ESX Framework `ESX-Legacy-Addons`
+* [Official ESX-Legacy-Addons Repository](https://github.com/esx-framework/ESX-Legacy-Addons)
 
 ---
 

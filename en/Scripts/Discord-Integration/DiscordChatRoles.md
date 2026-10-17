@@ -2,8 +2,8 @@
 title: DiscordChatRoles
 description: DiscordChatRoles adds Discord role-based tags and permissions to FiveM chat.
 published: true
-date: 2026-09-09T00:11:33.006Z
-tags: script, discord, chat, roles
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, discord, chat
 editor: markdown
 dateCreated: 2026-09-09T00:11:30.658Z
 ---
@@ -25,7 +25,9 @@ DiscordChatRoles adds Discord role-based tags and permissions to FiveM chat.
 | **Creator**  | Badger             |
 | **Type**     | Script             |
 | **Category** | Chat               |
+| **License**  | MIT                |
 | **Game**     | FiveM              |
+| **Price**    | Free               |
 | **Version**  | `7.0`              |
 | **Source**   | GitHub             |
 | {.dense}     |                    |
@@ -157,7 +159,7 @@ The creator documents StaffChat, tag selection, and color-selection commands acr
 ## Links
 
 * [Official Documentation](https://docs.badger.store/fivem-discord-scripts/discordchatroles)
-* [Official GitHub Repository](https://github.com/TheWolfBadger/DiscordChatRoles)
+* [Official GitHub Repository](https://github.com/JaredScar/DiscordChatRoles)
 
 ---
 

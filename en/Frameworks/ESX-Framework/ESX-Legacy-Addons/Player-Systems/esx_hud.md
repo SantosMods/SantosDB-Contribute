@@ -2,8 +2,8 @@
 title: esx_hud
 description: esx_hud provides a configurable player and vehicle HUD for ESX Legacy.
 published: true
-date: 2026-09-11T20:39:49.676Z
-tags: esx, hud, script, ui
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, hud, ui
 editor: markdown
 dateCreated: 2026-09-09T20:21:02.918Z
 ---
@@ -28,7 +28,9 @@ esx_hud provides a configurable player and vehicle HUD for ESX Legacy.
 | **Category**   | HUD / UI              |
 | **Game**       | FiveM                 |
 | **Framework**  | ESX Legacy            |
-| **License**    | GPL-3.0               |
+| **Price**      | Free                  |
+| **License**    | GPL-3.0-only          |
+| **Version**    | `1.10.2`              |
 | **Source**     | GitHub                |
 | {.dense}       |                       |
 

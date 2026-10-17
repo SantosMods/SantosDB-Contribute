@@ -2,8 +2,8 @@
 title: esx_vehicleshop
 description: esx_vehicleshop provides vehicle purchasing and dealership systems for ESX Legacy.
 published: true
-date: 2026-09-11T20:38:32.745Z
-tags: dealership, esx, script, vehicles
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, dealership, vehicles
 editor: markdown
 dateCreated: 2026-09-08T00:54:22.509Z
 ---
@@ -27,7 +27,10 @@ dateCreated: 2026-09-08T00:54:22.509Z
 | **Category**  | Vehicles          |
 | **Game**      | FiveM             |
 | **Framework** | ESX Legacy        |
-| **Source**    | ESX Framework     |
+| **Price**     | Free              |
+| **License**   | GPL-3.0-only      |
+| **Version**   | `1.0`             |
+| **Source**    | GitHub            |
 | {.dense}      |                   |
 
 ---

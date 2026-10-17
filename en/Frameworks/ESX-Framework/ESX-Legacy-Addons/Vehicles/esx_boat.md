@@ -2,8 +2,8 @@
 title: esx_boat
 description: ESX resource that adds boat shops and boat garages and integrates with esx_vehicleshop.
 published: true
-date: 2026-09-11T20:38:07.187Z
-tags: boats, esx, script, vehicle-shop
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, vehicles, dealership
 editor: markdown
 dateCreated: 2026-09-11T20:31:41.578Z
 ---
@@ -19,20 +19,21 @@ ESX boat shop and garage resource with `esx_vehicleshop` integration.
 
 ## Resource Information
 
-| Field                    | Information         |
-| ------------------------ | ------------------- |
-| **Name**                 | `esx_boat`          |
-| **Creator / Maintainer** | ESX Framework       |
-| **Original Copyright**   | Jérémie N'gadi      |
-| **Type**                 | Script              |
-| **Category**             | Vehicles            |
-| **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
-| **Price**                | Free                |
-| **Database File**        | `esx_boat.sql`      |
-| **Configuration File**   | `config.lua`        |
-| {.dense}                 |                     |
+| Field                    | Information    |
+| ------------------------ | -------------- |
+| **Name**                 | `esx_boat`     |
+| **Creator / Maintainer** | ESX Framework  |
+| **Original Copyright**   | Jérémie N'gadi |
+| **Type**                 | Script         |
+| **Category**             | Vehicles       |
+| **Game**                 | FiveM          |
+| **Framework**            | ESX Legacy     |
+| **License**              | GPL-3.0-only   |
+| **Version**              | `1.0`          |
+| **Price**                | Free           |
+| **Database File**        | `esx_boat.sql` |
+| **Configuration File**   | `config.lua`   |
+| {.dense}                 |                |
 
 ---
 
@@ -150,7 +151,7 @@ Use the current ESX documentation when integrating this export so its current re
 ## Links
 
 * [Official ESX Documentation](https://docs.esx-framework.org/en/esx_addons/esx_boat)
-* Official source repository: ESX Framework `ESX-Legacy-Addons`
+* [Official ESX-Legacy-Addons Repository](https://github.com/esx-framework/ESX-Legacy-Addons)
 
 ---
 

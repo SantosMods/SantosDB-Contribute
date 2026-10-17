@@ -2,8 +2,8 @@
 title: menuv
 description: Standalone FiveM NUI menu library for creating buttons, sliders, checkboxes, lists, and other menu interfaces.
 published: true
-date: 2026-09-14T02:12:51.230Z
-tags: library, menus, nui, standalone
+date: 2026-10-16T12:00:00.000Z
+tags: library, standalone, free, github, menus
 editor: markdown
 dateCreated: 2026-09-14T02:12:51.230Z
 ---
@@ -27,6 +27,7 @@ Standalone FiveM NUI menu library for creating buttons, sliders, checkboxes, lis
 | **Type**      | Library      |
 | **Category**  | Menu Library |
 | **Game**      | FiveM        |
+| **Price**     | Free         |
 | **License**   | GPL-3.0      |
 | **Framework** | Standalone   |
 | {.dense}      |              |

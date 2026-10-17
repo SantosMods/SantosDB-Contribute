@@ -2,8 +2,8 @@
 title: esx_dmvschool
 description: ESX driving school resource with theory and practical tests for car, motorcycle, and truck licenses.
 published: true
-date: 2026-09-11T20:44:19.190Z
-tags: esx, script, driving-school, licenses
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, free, github, licenses
 editor: markdown
 dateCreated: 2026-09-11T20:44:19.190Z
 ---
@@ -26,8 +26,9 @@ ESX driving school resource with theory and practical driving tests for car, mot
 | **Type**                 | Script              |
 | **Category**             | Driving School      |
 | **Game**                 | FiveM               |
-| **Framework**            | ESX                 |
-| **License**              | GNU GPL v3 or later |
+| **Framework**            | ESX Legacy          |
+| **License**              | GPL-3.0-only        |
+| **Version**              | `1.0`               |
 | **Price**                | Free                |
 | **Database File**        | `esx_dmvschool.sql` |
 | **Configuration File**   | `config.lua`        |

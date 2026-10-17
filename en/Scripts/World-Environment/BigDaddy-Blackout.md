@@ -2,8 +2,8 @@
 title: BigDaddy-Blackout
 description: Controls statewide power blackouts with permanent or randomized modes, ACE permissions, optional EAS integration, and server events for other resources.
 published: true
-date: 2026-09-13T18:03:40.738Z
-tags: blackout, script, standalone, weather-control
+date: 2026-10-16T12:00:00.000Z
+tags: script, qbcore, qbox, esx, standalone, paid, weather
 editor: markdown
 dateCreated: 2026-09-13T17:58:05.207Z
 ---

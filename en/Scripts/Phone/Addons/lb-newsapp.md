@@ -2,8 +2,8 @@
 title: lb-newsapp
 description: Paid LB Phone news app for publishing and reading articles with categories, profiles, permissions, and search.
 published: true
-date: 2026-09-14T01:55:12.488Z
-tags: esx, qbcore, script, news
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, paid, phone
 editor: markdown
 dateCreated: 2026-09-14T01:55:12.488Z
 ---
@@ -129,7 +129,7 @@ Logging supports services documented by LB Scripts, including `fivemanage`, `ox_
 * [Official Documentation](https://docs.lbscripts.com/news-app/)
 * [Installation](https://docs.lbscripts.com/news-app/installation/)
 * [Configuration](https://docs.lbscripts.com/news-app/configuration/)
-* [Authorized Purchase Page](https://store.lbscripts.com/package/6399882)
+* [Authorized Purchase Page](https://lbscripts.com/package/news)
 
 ---
 

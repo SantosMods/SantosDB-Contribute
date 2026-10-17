@@ -2,8 +2,8 @@
 title: ox_banking
 description: Banking system for ox_core with personal, shared, and group accounts, invoices, transaction logs, and ATMs.
 published: true
-date: 2026-09-14T02:16:04.699Z
-tags: banking, script, shared-accounts, ox-core
+date: 2026-10-16T12:00:00.000Z
+tags: script, ox-core, free, github, overextended, banking
 editor: markdown
 dateCreated: 2026-09-14T02:16:04.699Z
 ---
@@ -26,6 +26,7 @@ Banking system for `ox_core` with personal, shared, and group accounts, invoices
 | **Type**      | Script       |
 | **Category**  | Banking      |
 | **Game**      | FiveM        |
+| **Price**     | Free         |
 | **License**   | MIT          |
 | **Framework** | `ox_core`    |
 | {.dense}      |              |

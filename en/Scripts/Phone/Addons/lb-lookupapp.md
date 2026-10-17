@@ -2,8 +2,8 @@
 title: lb-lookupapp
 description: Paid LB Phone app for looking up player and vehicle information.
 published: true
-date: 2026-09-14T01:54:36.159Z
-tags: esx, phone-app, qbcore, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, esx, qbcore, paid, phone
 editor: markdown
 dateCreated: 2026-09-14T01:54:36.159Z
 ---
@@ -113,7 +113,7 @@ Config.HiddenVehicles
 * [Official Documentation](https://docs.lbscripts.com/lookup/)
 * [Installation](https://docs.lbscripts.com/lookup/installation/)
 * [Configuration](https://docs.lbscripts.com/lookup/configuration/)
-* [Authorized Purchase Page](https://store.lbscripts.com/package/5660717)
+* [Authorized Purchase Page](https://lbscripts.com/package/lookup)
 
 ---
 

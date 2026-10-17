@@ -2,8 +2,8 @@
 title: skinchanger
 description: skinchanger manages player models, clothing, accessories, and appearance components for ESX Legacy.
 published: true
-date: 2026-09-08T00:31:09.359Z
-tags: appearance, characters, esx, script
+date: 2026-10-16T12:00:00.000Z
+tags: script, free, github, appearance, characters
 editor: markdown
 dateCreated: 2026-09-08T00:30:32.783Z
 ---
@@ -27,8 +27,10 @@ dateCreated: 2026-09-08T00:30:32.783Z
 | **Category**  | Characters    |
 | **Game**      | FiveM         |
 | **Framework** | ESX Legacy    |
-| **Version**   | `1.15.2`      |
-| **Source**    | ESX Framework |
+| **Price**     | Free          |
+| **License**   | GPL-3.0-only  |
+| **Version**   | `1.16.0`      |
+| **Source**    | GitHub        |
 | {.dense}      |               |
 
 ---
