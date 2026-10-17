@@ -35,7 +35,7 @@ SantosDB is a FiveM resource directory affiliated with **SantosMods.dev**. Brows
 | **Other**    | FiveM resources that do not fit another category                                   |
 | {.dense}     |                                                                                    |
 
-Frameworks and Scripts currently contain published pages. Other categories are added as pages are published.
+All categories now contain published pages. Pages are added as resources are verified against official sources.
 
 ---
 
@@ -87,7 +87,7 @@ Use categories and tags to narrow your search.
 Listings may use tags for:
 
 * Frameworks such as `esx`, `qbcore`, `qbox`, `ox-core`, `nd-core`, and `standalone`
-* Resource types such as `framework`, `script`, and `library`
+* Resource types such as `framework`, `script`, `library`, `tool`, `mlo`, `ymap`, `eup`, `vehicle`, `prop`, and `weapon`
 * Pricing such as `free` and `paid`
 * Sources such as `github` and `cfx-re`
 * Features such as `inventory`, `police`, `housing`, `vehicles`, `ui`, and `developer-tool`

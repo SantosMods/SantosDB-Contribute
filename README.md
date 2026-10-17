@@ -55,6 +55,7 @@ Keep paths simple and consistent.
 /Frameworks/ESX-Framework/ESX-Core/es_extended
 /Frameworks/ND-Framework/ND_Core
 /Frameworks/Overextended/ox_core
+/Tools/txAdmin
 /EUP/Developer-Name/Type/Name
 /Vehicles/Developer-Name/Type/Name
 /MLOs/Developer-Name/Name
@@ -65,7 +66,7 @@ Use tags for important resource information. Put them in this order, lowercase a
 
 | Group     | Tags                                                            |
 | --------- | --------------------------------------------------------------- |
-| Type      | `framework`, `script`, `library`                                |
+| Type      | `framework`, `script`, `library`, `tool`, `mlo`, `ymap`, `eup`, `vehicle`, `prop`, `weapon` |
 | Framework | `esx`, `qbcore`, `qbox`, `ox-core`, `nd-core`, `standalone`     |
 | Price     | `free`, `paid`                                                  |
 | Source    | `github`, `cfx-re`                                              |
